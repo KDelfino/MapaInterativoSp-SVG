@@ -1,0 +1,1937 @@
+{
+  "region0": {
+    "title": "Adamantina"
+  },
+  "region1": {
+    "title": "Adolfo"
+  },
+  "region2": {
+    "title": "Aguaí"
+  },
+  "region3": {
+    "title": "Águas da Prata"
+  },
+  "region4": {
+    "title": "Águas de Lindóia"
+  },
+  "region5": {
+    "title": "Águas de Santa Bárbara"
+  },
+  "region6": {
+    "title": "Águas de São Pedro"
+  },
+  "region7": {
+    "title": "Agudos"
+  },
+  "region8": {
+    "title": "Alambari"
+  },
+  "region9": {
+    "title": "Alfredo Marcondes"
+  },
+  "region10": {
+    "title": "Altair"
+  },
+  "region11": {
+    "title": "Altinópolis"
+  },
+  "region12": {
+    "title": "Alto Alegre"
+  },
+  "region13": {
+    "title": "Alumínio"
+  },
+  "region14": {
+    "title": "Álvares Florence"
+  },
+  "region15": {
+    "title": "Álvares Machado"
+  },
+  "region16": {
+    "title": "Álvaro de Carvalho"
+  },
+  "region17": {
+    "title": "Alvinlândia"
+  },
+  "region18": {
+    "title": "Americana"
+  },
+  "region19": {
+    "title": "Américo Brasiliense"
+  },
+  "region20": {
+    "title": "Américo de Campos"
+  },
+  "region21": {
+    "title": "Amparo"
+  },
+  "region22": {
+    "title": "Analândia"
+  },
+  "region23": {
+    "title": "Andradina"
+  },
+  "region24": {
+    "title": "Angatuba"
+  },
+  "region25": {
+    "title": "Anhembi"
+  },
+  "region26": {
+    "title": "Anhumas"
+  },
+  "region27": {
+    "title": "Aparecida"
+  },
+  "region28": {
+    "title": "Aparecida d'Oeste"
+  },
+  "region29": {
+    "title": "Apiaí"
+  },
+  "region30": {
+    "title": "Araçariguama"
+  },
+  "region31": {
+    "title": "Araçatuba"
+  },
+  "region32": {
+    "title": "Araçoiaba da Serra"
+  },
+  "region33": {
+    "title": "Aramina"
+  },
+  "region34": {
+    "title": "Arandu"
+  },
+  "region35": {
+    "title": "Arapeí"
+  },
+  "region36": {
+    "title": "Araraquara"
+  },
+  "region37": {
+    "title": "Araras"
+  },
+  "region38": {
+    "title": "Arco-Íris"
+  },
+  "region39": {
+    "title": "Arealva"
+  },
+  "region40": {
+    "title": "Areias"
+  },
+  "region41": {
+    "title": "Areiópolis"
+  },
+  "region42": {
+    "title": "Ariranha"
+  },
+  "region43": {
+    "title": "Artur Nogueira"
+  },
+  "region44": {
+    "title": "Arujá"
+  },
+  "region45": {
+    "title": "Aspásia"
+  },
+  "region46": {
+    "title": "Assis"
+  },
+  "region47": {
+    "title": "Atibaia"
+  },
+  "region48": {
+    "title": "Auriflama"
+  },
+  "region49": {
+    "title": "Avaí"
+  },
+  "region50": {
+    "title": "Avanhandava"
+  },
+  "region51": {
+    "title": "Avaré"
+  },
+  "region52": {
+    "title": "Bady Bassitt"
+  },
+  "region53": {
+    "title": "Balbinos"
+  },
+  "region54": {
+    "title": "Bálsamo"
+  },
+  "region55": {
+    "title": "Bananal"
+  },
+  "region56": {
+    "title": "Barão de Antonina"
+  },
+  "region57": {
+    "title": "Barbosa"
+  },
+  "region58": {
+    "title": "Bariri"
+  },
+  "region59": {
+    "title": "Barra Bonita"
+  },
+  "region60": {
+    "title": "Barra do Chapéu"
+  },
+  "region61": {
+    "title": "Barra do Turvo"
+  },
+  "region62": {
+    "title": "Barretos"
+  },
+  "region63": {
+    "title": "Barrinha"
+  },
+  "region64": {
+    "title": "Barueri"
+  },
+  "region65": {
+    "title": "Bastos"
+  },
+  "region66": {
+    "title": "Batatais"
+  },
+  "region67": {
+    "title": "Bauru"
+  },
+  "region68": {
+    "title": "Bebedouro"
+  },
+  "region69": {
+    "title": "Bento de Abreu"
+  },
+  "region70": {
+    "title": "Bernardino de Campos"
+  },
+  "region71": {
+    "title": "Bertioga"
+  },
+  "region72": {
+    "title": "Bilac"
+  },
+  "region73": {
+    "title": "Birigui"
+  },
+  "region74": {
+    "title": "Biritiba Mirim"
+  },
+  "region75": {
+    "title": "Boa Esperança do Sul"
+  },
+  "region76": {
+    "title": "Bocaina"
+  },
+  "region77": {
+    "title": "Bofete"
+  },
+  "region78": {
+    "title": "Boituva"
+  },
+  "region79": {
+    "title": "Bom Jesus dos Perdões"
+  },
+  "region80": {
+    "title": "Bom Sucesso de Itararé"
+  },
+  "region81": {
+    "title": "Borá"
+  },
+  "region82": {
+    "title": "Boraceia"
+  },
+  "region83": {
+    "title": "Borborema"
+  },
+  "region84": {
+    "title": "Borebi"
+  },
+  "region85": {
+    "title": "Botucatu"
+  },
+  "region86": {
+    "title": "Bragança Paulista"
+  },
+  "region87": {
+    "title": "Braúna"
+  },
+  "region88": {
+    "title": "Brejo Alegre"
+  },
+  "region89": {
+    "title": "Brodowski"
+  },
+  "region90": {
+    "title": "Brotas"
+  },
+  "region91": {
+    "title": "Buri"
+  },
+  "region92": {
+    "title": "Buritama"
+  },
+  "region93": {
+    "title": "Buritizal"
+  },
+  "region94": {
+    "title": "Cabrália Paulista"
+  },
+  "region95": {
+    "title": "Cabreúva"
+  },
+  "region96": {
+    "title": "Caçapava"
+  },
+  "region97": {
+    "title": "Cachoeira Paulista"
+  },
+  "region98": {
+    "title": "Caconde"
+  },
+  "region99": {
+    "title": "Cafelândia"
+  },
+  "region100": {
+    "title": "Caiabu"
+  },
+  "region101": {
+    "title": "Caieiras"
+  },
+  "region102": {
+    "title": "Caiuá"
+  },
+  "region103": {
+    "title": "Cajamar"
+  },
+  "region104": {
+    "title": "Cajati"
+  },
+  "region105": {
+    "title": "Cajobi"
+  },
+  "region106": {
+    "title": "Cajuru"
+  },
+  "region107": {
+    "title": "Campina do Monte Alegre"
+  },
+  "region108": {
+    "title": "Campinas"
+  },
+  "region109": {
+    "title": "Campo Limpo Paulista"
+  },
+  "region110": {
+    "title": "Campos do Jordão"
+  },
+  "region111": {
+    "title": "Campos Novos Paulistav"
+  },
+  "region112": {
+    "title": "Cananéia"
+  },
+  "region113": {
+    "title": "Canas"
+  },
+  "region114": {
+    "title": "Cândido Mota"
+  },
+  "region115": {
+    "title": "Cândido Rodrigues"
+  },
+  "region116": {
+    "title": "Canitar"
+  },
+  "region117": {
+    "title": "Capão Bonito"
+  },
+  "region118": {
+    "title": "Capela do Alto"
+  },
+  "region119": {
+    "title": "Capivari"
+  },
+  "region120": {
+    "title": "Caraguatatuba"
+  },
+  "region121": {
+    "title": "Carapicuíba"
+  },
+  "region122": {
+    "title": "Cardoso"
+  },
+  "region123": {
+    "title": "Casa Branca"
+  },
+  "region124": {
+    "title": "Cássia dos Coqueiros"
+  },
+  "region125": {
+    "title": "Castilho"
+  },
+  "region126": {
+    "title": "Catanduva"
+  },
+  "region127": {
+    "title": "Catiguá"
+  },
+  "region128": {
+    "title": "Cedral"
+  },
+  "region129": {
+    "title": "Cerqueira César"
+  },
+  "region130": {
+    "title": "Cerquilho"
+  },
+  "region131": {
+    "title": "Cesário Lange"
+  },
+  "region132": {
+    "title": "Charqueada"
+  },
+  "region133": {
+    "title": "Clementina"
+  },
+  "region134": {
+    "title": "Colina"
+  },
+  "region135": {
+    "title": "Colômbia"
+  },
+  "region136": {
+    "title": "Conchal"
+  },
+  "region137": {
+    "title": "Conchas"
+  },
+  "region138": {
+    "title": "Cordeirópolis"
+  },
+  "region139": {
+    "title": "Coroados"
+  },
+  "region140": {
+    "title": "Coronel Macedo"
+  },
+  "region141": {
+    "title": "Corumbataí"
+  },
+  "region142": {
+    "title": "Cosmópolis"
+  },
+  "region143": {
+    "title": "Cosmorama"
+  },
+  "region144": {
+    "title": "Cotia"
+  },
+  "region145": {
+    "title": "Cravinhos"
+  },
+  "region146": {
+    "title": "Cristais Paulista"
+  },
+  "region147": {
+    "title": "Cruzália"
+  },
+  "region148": {
+    "title": "Cruzeiro"
+  },
+  "region149": {
+    "title": "Cubatão"
+  },
+  "region150": {
+    "title": "Cunha"
+  },
+  "region151": {
+    "title": "Descalvado"
+  },
+  "region152": {
+    "title": "Diadema"
+  },
+  "region153": {
+    "title": "Dirce Reis"
+  },
+  "region154": {
+    "title": "Divinolândia"
+  },
+  "region155": {
+    "title": "Dobrada"
+  },
+  "region156": {
+    "title": "Dois Córregos"
+  },
+  "region157": {
+    "title": "Dolcinópolis"
+  },
+  "region158": {
+    "title": "Dourado"
+  },
+  "region159": {
+    "title": "Dracena"
+  },
+  "region160": {
+    "title": "Duartina"
+  },
+  "region161": {
+    "title": "Dumont"
+  },
+  "region162": {
+    "title": "Echaporã"
+  },
+  "region163": {
+    "title": "Eldorado"
+  },
+  "region164": {
+    "title": "Elias Fausto"
+  },
+  "region165": {
+    "title": "Elisiário"
+  },
+  "region166": {
+    "title": "Embaúba"
+  },
+  "region167": {
+    "title": "Embu das Artes"
+  },
+  "region168": {
+    "title": "Embu-Guaçu"
+  },
+  "region169": {
+    "title": "Emilianópolis"
+  },
+  "region170": {
+    "title": "Engenheiro Coelho"
+  },
+  "region171": {
+    "title": "Espírito Santo do Pinhal"
+  },
+  "region172": {
+    "title": "Espírito Santo do Turvo"
+  },
+  "region173": {
+    "title": "Estrela d'Oeste Estrela"
+  },
+  "region174": {
+    "title": "Estrela do Norte"
+  },
+  "region175": {
+    "title": "Euclides da Cunha Paulista"
+  },
+  "region176": {
+    "title": "Fartura"
+  },
+  "region177": {
+    "title": "Fernandópolis"
+  },
+  "region178": {
+    "title": "Fernando Prestes"
+  },
+  "region179": {
+    "title": "Fernão"
+  },
+  "region180": {
+    "title": "Ferraz de Vasconcelos"
+  },
+  "region181": {
+    "title": "Flora Rica"
+  },
+  "region182": {
+    "title": "Floreal"
+  },
+  "region183": {
+    "title": "Flórida Paulista"
+  },
+  "region184": {
+    "title": "Florínea"
+  },
+  "region185": {
+    "title": "Franca"
+  },
+  "region186": {
+    "title": "Francisco Morato"
+  },
+  "region187": {
+    "title": "Franco da Rocha"
+  },
+  "region188": {
+    "title": "Gabriel Monteiro"
+  },
+  "region189": {
+    "title": "Gália"
+  },
+  "region190": {
+    "title": "Garça"
+  },
+  "region191": {
+    "title": "Gastão Vidigal"
+  },
+  "region192": {
+    "title": "Gavião Peixoto"
+  },
+  "region193": {
+    "title": "General Salgado"
+  },
+  "region194": {
+    "title": "Getulina"
+  },
+  "region195": {
+    "title": "Glicério"
+  },
+  "region196": {
+    "title": "Guaiçara"
+  },
+  "region197": {
+    "title": "Guaimbê"
+  },
+  "region198": {
+    "title": "Guaíra"
+  },
+  "region199": {
+    "title": "Guapiaçu"
+  },
+  "region200": {
+    "title": "Guapiara"
+  },
+  "region201": {
+    "title": "Guará"
+  },
+  "region202": {
+    "title": "Guaraçaí"
+  },
+  "region203": {
+    "title": "Guaraci"
+  },
+  "region204": {
+    "title": "Guarani d'Oeste"
+  },
+  "region205": {
+    "title": "Guarantã"
+  },
+  "region206": {
+    "title": "Guararapes"
+  },
+  "region207": {
+    "title": "Guararema"
+  },
+  "region208": {
+    "title": "Guaratinguetá"
+  },
+  "region209": {
+    "title": "Guareí"
+  },
+  "region210": {
+    "title": "Guariba"
+  },
+  "region211": {
+    "title": "Guarujá"
+  },
+  "region212": {
+    "title": "Guarulhos"
+  },
+  "region213": {
+    "title": "Guatapará"
+  },
+  "region214": {
+    "title": "Guzolândia"
+  },
+  "region215": {
+    "title": "Herculândia"
+  },
+  "region216": {
+    "title": "Holambra"
+  },
+  "region217": {
+    "title": "Hortolândia"
+  },
+  "region218": {
+    "title": "Iacanga"
+  },
+  "region219": {
+    "title": "Iacri"
+  },
+  "region220": {
+    "title": "Iaras"
+  },
+  "region221": {
+    "title": "Ibaté"
+  },
+  "region222": {
+    "title": "Ibirá"
+  },
+  "region223": {
+    "title": "Ibirarema"
+  },
+  "region224": {
+    "title": "Ibitinga"
+  },
+  "region225": {
+    "title": "Ibiúna"
+  },
+  "region226": {
+    "title": "Icém"
+  },
+  "region227": {
+    "title": "Iepê"
+  },
+  "region228": {
+    "title": "Igaraçu do Tietê"
+  },
+  "region229": {
+    "title": "Igarapava"
+  },
+  "region230": {
+    "title": "Igaratá"
+  },
+  "region231": {
+    "title": "Iguape"
+  },
+  "region232": {
+    "title": "Ilhabela"
+  },
+  "region233": {
+    "title": "Ilha Comprida"
+  },
+  "region234": {
+    "title": "Ilha Solteira"
+  },
+  "region235": {
+    "title": "Indaiatuba"
+  },
+  "region236": {
+    "title": "Indiana"
+  },
+  "region237": {
+    "title": "Indiaporã"
+  },
+  "region238": {
+    "title": "Inúbia Paulista"
+  },
+  "region239": {
+    "title": "Ipaussu"
+  },
+  "region240": {
+    "title": "Iperó"
+  },
+  "region241": {
+    "title": "Ipeúna"
+  },
+  "region242": {
+    "title": "Ipiguá"
+  },
+  "region243": {
+    "title": "Iporanga"
+  },
+  "region244": {
+    "title": "Ipuã"
+  },
+  "region245": {
+    "title": "Iracemápolis"
+  },
+  "region246": {
+    "title": "Irapuã"
+  },
+  "region247": {
+    "title": "Irapuru"
+  },
+  "region248": {
+    "title": "Itaberá"
+  },
+  "region249": {
+    "title": "Itaí"
+  },
+  "region250": {
+    "title": "Itajobi"
+  },
+  "region251": {
+    "title": "Itaju"
+  },
+  "region252": {
+    "title": "Itanhaém"
+  },
+  "region253": {
+    "title": "Itaoca"
+  },
+  "region254": {
+    "title": "Itapecerica da Serra"
+  },
+  "region255": {
+    "title": "Itapetininga"
+  },
+  "region256": {
+    "title": "Itapeva"
+  },
+  "region257": {
+    "title": "Itapevi"
+  },
+  "region258": {
+    "title": "Itapira"
+  },
+  "region259": {
+    "title": "Itapirapuã Paulista"
+  },
+  "region260": {
+    "title": "Itápolis"
+  },
+  "region261": {
+    "title": "Itaporanga"
+  },
+  "region262": {
+    "title": "Itapuí"
+  },
+  "region263": {
+    "title": "Itapura"
+  },
+  "region264": {
+    "title": "Itaquaquecetuba"
+  },
+  "region265": {
+    "title": "Itararé"
+  },
+  "region266": {
+    "title": "Itariri"
+  },
+  "region267": {
+    "title": "Itatiba"
+  },
+  "region268": {
+    "title": "Itatinga"
+  },
+  "region269": {
+    "title": "Itirapina"
+  },
+  "region270": {
+    "title": "Itirapuã"
+  },
+  "region271": {
+    "title": "Itobi"
+  },
+  "region272": {
+    "title": "Itu"
+  },
+  "region273": {
+    "title": "Itupeva"
+  },
+  "region274": {
+    "title": "Ituverava"
+  },
+  "region275": {
+    "title": "Jaborandi"
+  },
+  "region276": {
+    "title": "Jaboticabal"
+  },
+  "region277": {
+    "title": "Jacareí"
+  },
+  "region278": {
+    "title": "Jaci"
+  },
+  "region279": {
+    "title": "Jacupiranga"
+  },
+  "region280": {
+    "title": "Jaguariúna"
+  },
+  "region281": {
+    "title": "Jales"
+  },
+  "region282": {
+    "title": "Jambeiro"
+  },
+  "region283": {
+    "title": "Jandira"
+  },
+  "region284": {
+    "title": "Jardinópolis"
+  },
+  "region285": {
+    "title": "Jarinu"
+  },
+  "region286": {
+    "title": "Jaú"
+  },
+  "region287": {
+    "title": "Jeriquara"
+  },
+  "region288": {
+    "title": "Joanópolis"
+  },
+  "region289": {
+    "title": "João Ramalho"
+  },
+  "region290": {
+    "title": "José Bonifácio"
+  },
+  "region291": {
+    "title": "Júlio Mesquita"
+  },
+  "region292": {
+    "title": "Jumirim"
+  },
+  "region293": {
+    "title": "Jundiaí"
+  },
+  "region294": {
+    "title": "Junqueirópolis"
+  },
+  "region295": {
+    "title": "Juquiá"
+  },
+  "region296": {
+    "title": "Juquitiba"
+  },
+  "region297": {
+    "title": "Lagoinha"
+  },
+  "region298": {
+    "title": "Laranjal Paulista"
+  },
+  "region299": {
+    "title": "Lavínia"
+  },
+  "region300": {
+    "title": "Lavrinhas"
+  },
+  "region301": {
+    "title": "Leme"
+  },
+  "region302": {
+    "title": "Lençóis Paulista"
+  },
+  "region303": {
+    "title": "Limeira"
+  },
+  "region304": {
+    "title": "Lindoia"
+  },
+  "region305": {
+    "title": "Lins"
+  },
+  "region306": {
+    "title": "Lorena"
+  },
+  "region307": {
+    "title": "Lourdes"
+  },
+  "region308": {
+    "title": "Louveira"
+  },
+  "region309": {
+    "title": "Lucélia"
+  },
+  "region310": {
+    "title": "Lucianópolis"
+  },
+  "region311": {
+    "title": "Luiz Antônio"
+  },
+  "region312": {
+    "title": "Luiziânia"
+  },
+  "region313": {
+    "title": "Lupércio"
+  },
+  "region314": {
+    "title": "Lutécia"
+  },
+  "region315": {
+    "title": "Macatuba"
+  },
+  "region316": {
+    "title": "Macaubal"
+  },
+  "region317": {
+    "title": "Macedônia"
+  },
+  "region318": {
+    "title": "Magda"
+  },
+  "region319": {
+    "title": "Mairinque"
+  },
+  "region320": {
+    "title": "Mairiporã"
+  },
+  "region321": {
+    "title": "Manduri"
+  },
+  "region322": {
+    "title": "Marabá Paulista"
+  },
+  "region323": {
+    "title": "Maracaí"
+  },
+  "region324": {
+    "title": "Marapoama"
+  },
+  "region325": {
+    "title": "Mariápolis"
+  },
+  "region326": {
+    "title": "Marília"
+  },
+  "region327": {
+    "title": "Marinópolis"
+  },
+  "region328": {
+    "title": "Martinópolis"
+  },
+  "region329": {
+    "title": "Matão"
+  },
+  "region330": {
+    "title": "Mauá"
+  },
+  "region331": {
+    "title": "Mendonça"
+  },
+  "region332": {
+    "title": "Meridiano"
+  },
+  "region333": {
+    "title": "Mesópolis"
+  },
+  "region334": {
+    "title": "Miguelópolis"
+  },
+  "region335": {
+    "title": "Mineiros do Tietê"
+  },
+  "region336": {
+    "title": "Miracatu"
+  },
+  "region337": {
+    "title": "Mira Estrela"
+  },
+  "region338": {
+    "title": "Mirandópolis"
+  },
+  "region339": {
+    "title": "Mirante do Paranapanema"
+  },
+  "region340": {
+    "title": "Mirassol"
+  },
+  "region341": {
+    "title": "Mirassolândia"
+  },
+  "region342": {
+    "title": "Mococa"
+  },
+  "region343": {
+    "title": "Mogi das Cruzes"
+  },
+  "region344": {
+    "title": "Mogi Guaçu"
+  },
+  "region345": {
+    "title": "Mogi Mirim"
+  },
+  "region346": {
+    "title": "Mombuca"
+  },
+  "region347": {
+    "title": "Monções"
+  },
+  "region348": {
+    "title": "Mongaguá"
+  },
+  "region349": {
+    "title": "Monte Alegre do Sul"
+  },
+  "region350": {
+    "title": "Monte Alto"
+  },
+  "region351": {
+    "title": "Monte Aprazível"
+  },
+  "region352": {
+    "title": "Monte Azul Paulista"
+  },
+  "region353": {
+    "title": "Monte Castelo"
+  },
+  "region354": {
+    "title": "Monteiro Lobato"
+  },
+  "region355": {
+    "title": "Monte Mor"
+  },
+  "region356": {
+    "title": "Morro Agudo"
+  },
+  "region357": {
+    "title": "Morungaba"
+  },
+  "region358": {
+    "title": "Motuca"
+  },
+  "region359": {
+    "title": "Murutinga do Sul"
+  },
+  "region360": {
+    "title": "Nantes"
+  },
+  "region361": {
+    "title": "Narandiba"
+  },
+  "region362": {
+    "title": "Natividade da Serra"
+  },
+  "region363": {
+    "title": "Nazaré Paulista"
+  },
+  "region364": {
+    "title": "Neves Paulista"
+  },
+  "region365": {
+    "title": "Nhandeara"
+  },
+  "region366": {
+    "title": "Nipoã"
+  },
+  "region367": {
+    "title": "Nova Aliança"
+  },
+  "region368": {
+    "title": "Nova Campina"
+  },
+  "region369": {
+    "title": "Nova Canaã Paulista"
+  },
+  "region370": {
+    "title": "Nova Castilho"
+  },
+  "region371": {
+    "title": "Nova Europa"
+  },
+  "region372": {
+    "title": "Nova Granada"
+  },
+  "region373": {
+    "title": "Nova Guataporanga"
+  },
+  "region374": {
+    "title": "Nova Independência"
+  },
+  "region375": {
+    "title": "Novais"
+  },
+  "region376": {
+    "title": "Nova Luzitânia"
+  },
+  "region377": {
+    "title": "Nova Odessa"
+  },
+  "region378": {
+    "title": "Novo Horizonte"
+  },
+  "region379": {
+    "title": "Nuporanga"
+  },
+  "region380": {
+    "title": "Ocauçu"
+  },
+  "region381": {
+    "title": "Óleo"
+  },
+  "region382": {
+    "title": "Olímpia"
+  },
+  "region383": {
+    "title": "Onda Verde"
+  },
+  "region384": {
+    "title": "Oriente"
+  },
+  "region385": {
+    "title": "Orindiúva"
+  },
+  "region386": {
+    "title": "Orlândia"
+  },
+  "region387": {
+    "title": "Osasco"
+  },
+  "region388": {
+    "title": "Oscar Bressane"
+  },
+  "region389": {
+    "title": "Osvaldo Cruz"
+  },
+  "region390": {
+    "title": "Ourinhos"
+  },
+  "region391": {
+    "title": "Ouroeste"
+  },
+  "region392": {
+    "title": "Ouro Verde"
+  },
+  "region393": {
+    "title": "Pacaembu"
+  },
+  "region394": {
+    "title": "Palestina"
+  },
+  "region395": {
+    "title": "Palmares Paulista"
+  },
+  "region396": {
+    "title": "Palmeira d'Oeste"
+  },
+  "region397": {
+    "title": "Palmital"
+  },
+  "region398": {
+    "title": "Panorama"
+  },
+  "region399": {
+    "title": "Paraguaçu Paulista"
+  },
+  "region400": {
+    "title": "Paraibuna"
+  },
+  "region401": {
+    "title": "Paraíso"
+  },
+  "region402": {
+    "title": "Paranapanema"
+  },
+  "region403": {
+    "title": "Paranapuã"
+  },
+  "region404": {
+    "title": "Parapuã"
+  },
+  "region405": {
+    "title": "Pardinho"
+  },
+  "region406": {
+    "title": "Pariquera-Açu"
+  },
+  "region407": {
+    "title": "Parisi"
+  },
+  "region408": {
+    "title": "Patrocínio Paulista"
+  },
+  "region409": {
+    "title": "Paulicéia"
+  },
+  "region410": {
+    "title": "Paulínia"
+  },
+  "region411": {
+    "title": "Paulistânia"
+  },
+  "region412": {
+    "title": "Paulo de Faria"
+  },
+  "region413": {
+    "title": "Pederneiras"
+  },
+  "region414": {
+    "title": "Pedra Bela"
+  },
+  "region415": {
+    "title": "Pedranópolis"
+  },
+  "region416": {
+    "title": "Pedregulho"
+  },
+  "region417": {
+    "title": "Pedreira"
+  },
+  "region418": {
+    "title": "Pedrinhas Paulista"
+  },
+  "region419": {
+    "title": "Pedro de Toledo"
+  },
+  "region420": {
+    "title": "Penápolis"
+  },
+  "region421": {
+    "title": "Pereira Barreto"
+  },
+  "region422": {
+    "title": "Pereiras"
+  },
+  "region423": {
+    "title": "Peruíbe"
+  },
+  "region424": {
+    "title": "Piacatu"
+  },
+  "region425": {
+    "title": "Piedade"
+  },
+  "region426": {
+    "title": "Pilar do Sul"
+  },
+  "region427": {
+    "title": "Pindamonhangaba"
+  },
+  "region428": {
+    "title": "Pindorama"
+  },
+  "region429": {
+    "title": "Pinhalzinho"
+  },
+  "region430": {
+    "title": "Piquerobi"
+  },
+  "region431": {
+    "title": "Piquete"
+  },
+  "region432": {
+    "title": "Piracaia"
+  },
+  "region433": {
+    "title": "Piracicaba"
+  },
+  "region434": {
+    "title": "Piraju"
+  },
+  "region435": {
+    "title": "Pirajuí"
+  },
+  "region436": {
+    "title": "Pirangi"
+  },
+  "region437": {
+    "title": "Pirapora do Bom Jesus"
+  },
+  "region438": {
+    "title": "Pirapozinho"
+  },
+  "region439": {
+    "title": "Pirassununga"
+  },
+  "region440": {
+    "title": "Piratininga"
+  },
+  "region441": {
+    "title": "Pitangueiras"
+  },
+  "region442": {
+    "title": "Planalto"
+  },
+  "region443": {
+    "title": "Platina"
+  },
+  "region444": {
+    "title": "Poá"
+  },
+  "region445": {
+    "title": "Poloni"
+  },
+  "region446": {
+    "title": "Pompeia"
+  },
+  "region447": {
+    "title": "Pongaí"
+  },
+  "region448": {
+    "title": "Pontal"
+  },
+  "region449": {
+    "title": "Pontalinda"
+  },
+  "region450": {
+    "title": "Pontes Gestal"
+  },
+  "region451": {
+    "title": "Populina"
+  },
+  "region452": {
+    "title": "Porangaba"
+  },
+  "region453": {
+    "title": "Porto Feliz"
+  },
+  "region454": {
+    "title": "Porto Ferreira"
+  },
+  "region455": {
+    "title": "Potim"
+  },
+  "region456": {
+    "title": "Potirendaba"
+  },
+  "region457": {
+    "title": "Pracinha"
+  },
+  "region458": {
+    "title": "Pradópolis"
+  },
+  "region459": {
+    "title": "Praia Grande"
+  },
+  "region460": {
+    "title": "Pratânia"
+  },
+  "region461": {
+    "title": "Presidente Alves"
+  },
+  "region462": {
+    "title": "Presidente Bernardes"
+  },
+  "region463": {
+    "title": "Presidente Epitácio"
+  },
+  "region464": {
+    "title": "Presidente Prudente"
+  },
+  "region465": {
+    "title": "Presidente Venceslau"
+  },
+  "region466": {
+    "title": "Promissão"
+  },
+  "region467": {
+    "title": "Quadra"
+  },
+  "region468": {
+    "title": "Quatá"
+  },
+  "region469": {
+    "title": "Queiroz"
+  },
+  "region470": {
+    "title": "Queluz"
+  },
+  "region471": {
+    "title": "Quintana"
+  },
+  "region472": {
+    "title": "Rafard"
+  },
+  "region473": {
+    "title": "Rancharia"
+  },
+  "region474": {
+    "title": "Redenção da Serra"
+  },
+  "region475": {
+    "title": "Regente Feijó"
+  },
+  "region476": {
+    "title": "Reginópolis"
+  },
+  "region477": {
+    "title": "Registro"
+  },
+  "region478": {
+    "title": "Restinga"
+  },
+  "region479": {
+    "title": "Ribeira"
+  },
+  "region480": {
+    "title": "Ribeirão Bonito"
+  },
+  "region481": {
+    "title": "Ribeirão Branco"
+  },
+  "region482": {
+    "title": "Ribeirão Corrente"
+  },
+  "region483": {
+    "title": "Ribeirão do Sul"
+  },
+  "region484": {
+    "title": "Ribeirão dos Índios"
+  },
+  "region485": {
+    "title": "Ribeirão Grande"
+  },
+  "region486": {
+    "title": "Ribeirão Pires"
+  },
+  "region487": {
+    "title": "Ribeirão Preto"
+  },
+  "region488": {
+    "title": "Riversul"
+  },
+  "region489": {
+    "title": "Rifaina"
+  },
+  "region490": {
+    "title": "Rincão"
+  },
+  "region491": {
+    "title": "Rinópolis"
+  },
+  "region492": {
+    "title": "Rio Claro"
+  },
+  "region493": {
+    "title": "Rio das Pedras"
+  },
+  "region494": {
+    "title": "Rio Grande da Serra"
+  },
+  "region495": {
+    "title": "Riolândia"
+  },
+  "region496": {
+    "title": "Rosana"
+  },
+  "region497": {
+    "title": "Roseira"
+  },
+  "region498": {
+    "title": "Rubiácea"
+  },
+  "region499": {
+    "title": "Rubinéia"
+  },
+  "region500": {
+    "title": "Sabino"
+  },
+  "region501": {
+    "title": "Sagres"
+  },
+  "region502": {
+    "title": "Sales"
+  },
+  "region503": {
+    "title": "Sales Oliveira"
+  },
+  "region504": {
+    "title": "Salesópolis"
+  },
+  "region505": {
+    "title": "Salmourão"
+  },
+  "region506": {
+    "title": "Saltinho"
+  },
+  "region507": {
+    "title": "Salto"
+  },
+  "region508": {
+    "title": "Salto de Pirapora"
+  },
+  "region509": {
+    "title": "Salto Grande"
+  },
+  "region510": {
+    "title": "Sandovalina"
+  },
+  "region511": {
+    "title": "Santa Adélia"
+  },
+  "region512": {
+    "title": "Santa Albertina"
+  },
+  "region513": {
+    "title": "Santa Bárbara d'Oeste"
+  },
+  "region514": {
+    "title": "Santa Branca"
+  },
+  "region515": {
+    "title": "Santa Clara d'Oeste"
+  },
+  "region516": {
+    "title": "Santa Cruz da Conceição"
+  },
+  "region517": {
+    "title": "Santa Cruz da Esperança"
+  },
+  "region518": {
+    "title": "Santa Cruz das Palmeiras"
+  },
+  "region519": {
+    "title": "Santa Cruz do Rio Pardo"
+  },
+  "region520": {
+    "title": "Santa Ernestina"
+  },
+  "region521": {
+    "title": "Santa Fé do Sul"
+  },
+  "region522": {
+    "title": "Santa Gertrudes"
+  },
+  "region523": {
+    "title": "Santa Isabel"
+  },
+  "region524": {
+    "title": "Santa Lúcia"
+  },
+  "region525": {
+    "title": "Santa Maria da Serra"
+  },
+  "region526": {
+    "title": "Santa Mercedes"
+  },
+  "region527": {
+    "title": "Santana da Ponte Pensa"
+  },
+  "region528": {
+    "title": "Santana de Parnaíba"
+  },
+  "region529": {
+    "title": "Santa Rita d'Oeste"
+  },
+  "region530": {
+    "title": "Santa Rita do Passa Quatro"
+  },
+  "region531": {
+    "title": "Santa Rosa de Viterbo"
+  },
+  "region532": {
+    "title": "Santa Salete"
+  },
+  "region533": {
+    "title": "Santo Anastácio"
+  },
+  "region534": {
+    "title": "Santo André"
+  },
+  "region535": {
+    "title": "Santo Antônio da Alegria"
+  },
+  "region536": {
+    "title": "Santo Antônio de Posse"
+  },
+  "region537": {
+    "title": "Santo Antônio do Aracanguá"
+  },
+  "region538": {
+    "title": "Santo Antônio do Jardim"
+  },
+  "region539": {
+    "title": "Santo Antônio do Pinhal"
+  },
+  "region540": {
+    "title": "Santo Expedito"
+  },
+  "region541": {
+    "title": "Santópolis do Aguapeí"
+  },
+  "region542": {
+    "title": "Santos"
+  },
+  "region543": {
+    "title": "São Bento do Sapucaí"
+  },
+  "region544": {
+    "title": "São Bernardo do Campo"
+  },
+  "region545": {
+    "title": "São Caetano do Sul"
+  },
+  "region546": {
+    "title": "São Carlos"
+  },
+  "region547": {
+    "title": "São Francisco"
+  },
+  "region548": {
+    "title": "São João da Boa Vista"
+  },
+  "region549": {
+    "title": "São João das Duas Pontes"
+  },
+  "region550": {
+    "title": "São João de Iracema"
+  },
+  "region551": {
+    "title": "São João do Pau d'Alho"
+  },
+  "region552": {
+    "title": "São Joaquim da Barra"
+  },
+  "region553": {
+    "title": "São José da Bela Vista"
+  },
+  "region554": {
+    "title": "São José do Barreiro"
+  },
+  "region555": {
+    "title": "São José do Rio Pardo"
+  },
+  "region556": {
+    "title": "São José do Rio Preto"
+  },
+  "region557": {
+    "title": "São José dos Campos"
+  },
+  "region558": {
+    "title": "São Lourenço da Serra"
+  },
+  "region559": {
+    "title": "São Luiz do Paraitinga"
+  },
+  "region560": {
+    "title": "São Manuel"
+  },
+  "region561": {
+    "title": "São Miguel Arcanjo"
+  },
+  "region562": {
+    "title": "São Paulo"
+  },
+  "region563": {
+    "title": "São Pedro"
+  },
+  "region564": {
+    "title": "São Pedro do Turvo"
+  },
+  "region565": {
+    "title": "São Roque"
+  },
+  "region566": {
+    "title": "São Sebastião"
+  },
+  "region567": {
+    "title": "São Sebastião da Grama"
+  },
+  "region568": {
+    "title": "São Simão"
+  },
+  "region569": {
+    "title": "São Vicente"
+  },
+  "region570": {
+    "title": "Sarapuí"
+  },
+  "region571": {
+    "title": "Sarutaiá"
+  },
+  "region572": {
+    "title": "Sebastianópolis do Sul"
+  },
+  "region573": {
+    "title": "Serra Azul"
+  },
+  "region574": {
+    "title": "Serrana"
+  },
+  "region575": {
+    "title": "Serra Negra"
+  },
+  "region576": {
+    "title": "Sertãozinho"
+  },
+  "region577": {
+    "title": "Sete Barras"
+  },
+  "region578": {
+    "title": "Severínia"
+  },
+  "region579": {
+    "title": "Silveiras"
+  },
+  "region580": {
+    "title": "Socorro"
+  },
+  "region581": {
+    "title": "Sorocaba"
+  },
+  "region582": {
+    "title": "Sud Mennucci"
+  },
+  "region583": {
+    "title": "Sumaré"
+  },
+  "region584": {
+    "title": "Suzano"
+  },
+  "region585": {
+    "title": "Suzanápolis"
+  },
+  "region586": {
+    "title": "Tabapuã"
+  },
+  "region587": {
+    "title": "Tabatinga"
+  },
+  "region588": {
+    "title": "Taboão da Serra"
+  },
+  "region589": {
+    "title": "Taciba"
+  },
+  "region590": {
+    "title": "Taguaí"
+  },
+  "region591": {
+    "title": "Taiaçu"
+  },
+  "region592": {
+    "title": "Taiúva"
+  },
+  "region593": {
+    "title": "Tambaú"
+  },
+  "region594": {
+    "title": "Tanabi"
+  },
+  "region595": {
+    "title": "Tapiraí"
+  },
+  "region596": {
+    "title": "Tapiratiba"
+  },
+  "region597": {
+    "title": "Taquaral"
+  },
+  "region598": {
+    "title": "Taquaritinga"
+  },
+  "region599": {
+    "title": "Taquarituba"
+  },
+  "region600": {
+    "title": "Taquarivaí"
+  },
+  "region601": {
+    "title": "Tarabai"
+  },
+  "region602": {
+    "title": "Tarumã"
+  },
+  "region603": {
+    "title": "Tatuí"
+  },
+  "region604": {
+    "title": "Taubaté"
+  },
+  "region605": {
+    "title": "Tejupá"
+  },
+  "region606": {
+    "title": "Teodoro Sampaio"
+  },
+  "region607": {
+    "title": "Terra Roxa"
+  },
+  "region608": {
+    "title": "Tietê"
+  },
+  "region609": {
+    "title": "Timburi"
+  },
+  "region610": {
+    "title": "Torre de Pedra"
+  },
+  "region611": {
+    "title": "Torrinha"
+  },
+  "region612": {
+    "title": "Trabiju"
+  },
+  "region613": {
+    "title": "Tremembé"
+  },
+  "region614": {
+    "title": "Três Fronteiras"
+  },
+  "region615": {
+    "title": "Tuiuti"
+  },
+  "region616": {
+    "title": "Tupã"
+  },
+  "region617": {
+    "title": "Tupi Paulista"
+  },
+  "region618": {
+    "title": "Turiúba"
+  },
+  "region619": {
+    "title": "Turmalina"
+  },
+  "region620": {
+    "title": "Ubarana"
+  },
+  "region621": {
+    "title": "Ubatuba"
+  },
+  "region622": {
+    "title": "Ubirajara"
+  },
+  "region623": {
+    "title": "Uchoa"
+  },
+  "region624": {
+    "title": "União Paulista"
+  },
+  "region625": {
+    "title": "Urânia"
+  },
+  "region626": {
+    "title": "Uru"
+  },
+  "region627": {
+    "title": "Urupês"
+  },
+  "region628": {
+    "title": "Valentim Gentil"
+  },
+  "region629": {
+    "title": "Valinhos"
+  },
+  "region630": {
+    "title": "Valparaíso"
+  },
+  "region631": {
+    "title": "Vargem"
+  },
+  "region632": {
+    "title": "Vargem Grande do Sul"
+  },
+  "region633": {
+    "title": "Vargem Grande Paulista"
+  },
+  "region634": {
+    "title": "Várzea Paulista"
+  },
+  "region635": {
+    "title": "Vera Cruz"
+  },
+  "region636": {
+    "title": "Vinhedo"
+  },
+  "region637": {
+    "title": "Viradouro"
+  },
+  "region638": {
+    "title": "Vista Alegre do Alto"
+  },
+  "region639": {
+    "title": "Vitória Brasil"
+  },
+  "region640": {
+    "title": "Votorantim"
+  },
+  "region641": {
+    "title": "Votuporanga"
+  },
+  "region642": {
+    "title": "Zacarias"
+  },
+  "region643": {
+    "title": "Chavantes"
+  },
+  "region644": {
+    "title": "Estiva Gerbi"
+  }
+}
