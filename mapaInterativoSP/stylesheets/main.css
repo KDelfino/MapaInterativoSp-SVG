@@ -5,14 +5,6 @@ body {
   svg {
     margin-top: 20px;
   }
-  path {
-cursor: pointer;
-transition: fill 0.3s;
-}
-
-path:hover {
-fill: #ffaaaa;
-}
 
 .tooltip {
 position: absolute;
@@ -58,10 +50,18 @@ stroke-width: 1px;
   margin-bottom: 15px; 
 }
 
-/* cor do hover */
+path {
+  cursor: pointer;
+  transition: fill 0.3s;
+}
+  
+
 path:hover {
   fill: #64a2ff;
-  cursor: pointer; 
+}
+
+path.highlight {
+  fill: #64a2ff !important;
 }
 
 @media (max-width: 770px) {

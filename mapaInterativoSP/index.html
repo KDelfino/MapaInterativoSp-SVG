@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="https://apps.univesp.br/common/favicon.ico" type="image/x-icon" />
 
     <link rel="stylesheet" href="stylesheets/main.css">
-   
+    <link rel="stylesheet" href="stylesheets/search.css">
 
 
 </head>
@@ -667,10 +667,14 @@
     </div>
 
     <div id="info-container">
-        <h3>Informações adicionais</h3>
-        <div id="municipio-name"></div>
+        <div id="search-wrapper">
+            <input type="text" id="search-input" placeholder="Buscar município..." autocomplete="off">
+            <div id="autocomplete-list" class="autocomplete-items"></div>
+        </div>
+        <hr>
+        <div id="municipio-name"><h3>Selecione um município no mapa</h3></div>
         <div id="info">
-          <p>Selecione um município no mapa para visualizar as informações.</p>
+          <!-- Esta área pode ser usada para mais detalhes no futuro -->
         </div>
       </div>
 
