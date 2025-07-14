@@ -46,7 +46,10 @@ document.addEventListener('DOMContentLoaded', () => {
        
         highlightedPaths = newPathsToHighlight;
 
-        municipioNameDiv.innerHTML = `<h3>Município: ${info.title}</h3>`;
+        municipioNameDiv.innerHTML = `
+          <h3>Município: ${info.title || ""}</h3>
+          <p>População: ${info.populacao !== undefined && info.populacao !== null ? info.populacao.toLocaleString('pt-BR') : "Não disponível"}</p>
+        `;
       }
 
       paths.forEach(path => {

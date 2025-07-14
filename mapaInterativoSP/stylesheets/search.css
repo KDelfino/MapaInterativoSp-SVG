@@ -3,6 +3,8 @@
 #search-wrapper {
     position: relative;
     padding: 10px;
+    
+    
 }
 
 #search-input {
@@ -11,6 +13,7 @@
     font-size: 16px;
     border: 1px solid #ddd;
     box-sizing: border-box;
+    border-radius: 15px;
 }
 
 .autocomplete-items {

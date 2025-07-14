@@ -6,6 +6,12 @@ body {
     margin-top: 20px;
   }
 
+  html{
+    background: #4fb6ff;
+background: radial-gradient(circle,rgba(79, 182, 255, 1) 58%, rgba(6, 151, 204, 1) 100%);
+font-family: sans-serif;
+  }
+
 .tooltip {
 position: absolute;
 background-color: rgba(0, 0, 0, 0.8);
@@ -41,6 +47,11 @@ stroke-width: 1px;
   padding: 10px;
   border-left: 1px solid #ccc;
   font-size: 16px !important;
+  background: #e8f5ff;
+background: radial-gradient(circle, rgba(232, 245, 255, 1) 58%, rgba(232, 250, 255, 1) 100%);
+font-family: sans-serif;
+border-radius: 5px;
+
 }
 
 
@@ -62,6 +73,22 @@ path:hover {
 
 path.highlight {
   fill: #64a2ff !important;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: auto;
+  min-width: 220px;
+  background: rgba(255,255,255,0.85);
+  color: #222;
+  padding: 6px 18px 6px 10px;
+  font-size: 13px;
+  border-top-right-radius: 8px;
+  box-shadow: 1px 1px 8px rgba(0,0,0,0.08);
+  z-index: 1000;
+  text-align: left;
 }
 
 @media (max-width: 770px) {
