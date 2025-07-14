@@ -1,1937 +1,2582 @@
 {
   "region0": {
-    "title": "Adamantina"
+    "title": "Adamantina",
+    "populacao": 35642
   },
   "region1": {
-    "title": "Adolfo"
+    "title": "Adolfo",
+    "populacao": 4478
   },
   "region2": {
-    "title": "Aguaí"
+    "title": "Aguaí",
+    "populacao": 32888
   },
   "region3": {
-    "title": "Águas da Prata"
+    "title": "Águas da Prata",
+    "populacao": 7470
   },
   "region4": {
-    "title": "Águas de Lindóia"
+    "title": "Águas de Lindóia",
+    "populacao": 18245
   },
   "region5": {
-    "title": "Águas de Santa Bárbara"
+    "title": "Águas de Santa Bárbara",
+    "populacao": 7407
   },
   "region6": {
-    "title": "Águas de São Pedro"
+    "title": "Águas de São Pedro",
+    "populacao": 2829
   },
   "region7": {
-    "title": "Agudos"
+    "title": "Agudos",
+    "populacao": 38879
   },
   "region8": {
-    "title": "Alambari"
+    "title": "Alambari",
+    "populacao": 6330
   },
   "region9": {
-    "title": "Alfredo Marcondes"
+    "title": "Alfredo Marcondes",
+    "populacao": 4556
   },
   "region10": {
-    "title": "Altair"
+    "title": "Altair",
+    "populacao": 3479
   },
   "region11": {
-    "title": "Altinópolis"
+    "title": "Altinópolis",
+    "populacao": 17156
   },
   "region12": {
-    "title": "Alto Alegre"
+    "title": "Alto Alegre",
+    "populacao": 3883
   },
   "region13": {
-    "title": "Alumínio"
+    "title": "Alumínio",
+    "populacao": 17591
   },
   "region14": {
-    "title": "Álvares Florence"
+    "title": "Álvares Florence",
+    "populacao": 3978
   },
   "region15": {
-    "title": "Álvares Machado"
+    "title": "Álvares Machado",
+    "populacao": 28250
   },
   "region16": {
-    "title": "Álvaro de Carvalho"
+    "title": "Álvaro de Carvalho",
+    "populacao": 4896
   },
   "region17": {
-    "title": "Alvinlândia"
+    "title": "Alvinlândia",
+    "populacao": 2923
   },
   "region18": {
-    "title": "Americana"
+    "title": "Americana",
+    "populacao": 246655
   },
   "region19": {
-    "title": "Américo Brasiliense"
+    "title": "Américo Brasiliense",
+    "populacao": 33757
   },
   "region20": {
-    "title": "Américo de Campos"
+    "title": "Américo de Campos",
+    "populacao": 5975
   },
   "region21": {
-    "title": "Amparo"
+    "title": "Amparo",
+    "populacao": 69717
   },
   "region22": {
-    "title": "Analândia"
+    "title": "Analândia",
+    "populacao": 4684
   },
   "region23": {
-    "title": "Andradina"
+    "title": "Andradina",
+    "populacao": 61473
   },
   "region24": {
-    "title": "Angatuba"
+    "title": "Angatuba",
+    "populacao": 24512
   },
   "region25": {
-    "title": "Anhembi"
+    "title": "Anhembi",
+    "populacao": 5766
   },
   "region26": {
-    "title": "Anhumas"
+    "title": "Anhumas",
+    "populacao": 4108
   },
   "region27": {
-    "title": "Aparecida"
+    "title": "Aparecida",
+    "populacao": 33223
   },
   "region28": {
-    "title": "Aparecida d'Oeste"
+    "title": "Aparecida d'Oeste",
+    "populacao": 4124
   },
   "region29": {
-    "title": "Apiaí"
+    "title": "Apiaí",
+    "populacao": 24886
   },
   "region30": {
-    "title": "Araçariguama"
+    "title": "Araçariguama",
+    "populacao": 22168
   },
   "region31": {
-    "title": "Araçatuba"
+    "title": "Araçatuba",
+    "populacao": 207775
   },
   "region32": {
-    "title": "Araçoiaba da Serra"
+    "title": "Araçoiaba da Serra",
+    "populacao": 33656
   },
   "region33": {
-    "title": "Aramina"
+    "title": "Aramina",
+    "populacao": 5526
   },
   "region34": {
-    "title": "Arandu"
+    "title": "Arandu",
+    "populacao": 7050
   },
   "region35": {
-    "title": "Arapeí"
+    "title": "Arapeí",
+    "populacao": 2355
   },
   "region36": {
-    "title": "Araraquara"
+    "title": "Araraquara",
+    "populacao": 252318
   },
   "region37": {
-    "title": "Araras"
+    "title": "Araras",
+    "populacao": 135331
   },
   "region38": {
-    "title": "Arco-Íris"
+    "title": "Arco-Íris",
+    "populacao": 2085
   },
   "region39": {
-    "title": "Arealva"
+    "title": "Arealva",
+    "populacao": 8280
   },
   "region40": {
-    "title": "Areias"
+    "title": "Areias",
+    "populacao": 3625
   },
   "region41": {
-    "title": "Areiópolis"
+    "title": "Areiópolis",
+    "populacao": 10257
   },
   "region42": {
-    "title": "Ariranha"
+    "title": "Ariranha",
+    "populacao": 7653
   },
   "region43": {
-    "title": "Artur Nogueira"
+    "title": "Artur Nogueira",
+    "populacao": 53157
   },
   "region44": {
-    "title": "Arujá"
+    "title": "Arujá",
+    "populacao": 89943
   },
   "region45": {
-    "title": "Aspásia"
+    "title": "Aspásia",
+    "populacao": 1873
   },
   "region46": {
-    "title": "Assis"
+    "title": "Assis",
+    "populacao": 104642
   },
   "region47": {
-    "title": "Atibaia"
+    "title": "Atibaia",
+    "populacao": 166043
   },
   "region48": {
-    "title": "Auriflama"
+    "title": "Auriflama",
+    "populacao": 13873
   },
   "region49": {
-    "title": "Avaí"
+    "title": "Avaí",
+    "populacao": 4519
   },
   "region50": {
-    "title": "Avanhandava"
+    "title": "Avanhandava",
+    "populacao": 11438
   },
   "region51": {
-    "title": "Avaré"
+    "title": "Avaré",
+    "populacao": 96098
   },
   "region52": {
-    "title": "Bady Bassitt"
+    "title": "Bady Bassitt",
+    "populacao": 28909
   },
   "region53": {
-    "title": "Balbinos"
+    "title": "Balbinos",
+    "populacao": 3963
   },
   "region54": {
-    "title": "Bálsamo"
+    "title": "Bálsamo",
+    "populacao": 9854
   },
   "region55": {
-    "title": "Bananal"
+    "title": "Bananal",
+    "populacao": 10109
   },
   "region56": {
-    "title": "Barão de Antonina"
+    "title": "Barão de Antonina",
+    "populacao": 3618
   },
   "region57": {
-    "title": "Barbosa"
+    "title": "Barbosa",
+    "populacao": 5659
   },
   "region58": {
-    "title": "Bariri"
+    "title": "Bariri",
+    "populacao": 32405
   },
   "region59": {
-    "title": "Barra Bonita"
+    "title": "Barra Bonita",
+    "populacao": 35159
   },
   "region60": {
-    "title": "Barra do Chapéu"
+    "title": "Barra do Chapéu",
+    "populacao": 5256
   },
   "region61": {
-    "title": "Barra do Turvo"
+    "title": "Barra do Turvo",
+    "populacao": 6922
   },
   "region62": {
-    "title": "Barretos"
+    "title": "Barretos",
+    "populacao": 126600
   },
   "region63": {
-    "title": "Barrinha"
+    "title": "Barrinha",
+    "populacao": 33181
   },
   "region64": {
-    "title": "Barueri"
+    "title": "Barueri",
+    "populacao": 330339
   },
   "region65": {
-    "title": "Bastos"
+    "title": "Bastos",
+    "populacao": 21900
   },
   "region66": {
-    "title": "Batatais"
+    "title": "Batatais",
+    "populacao": 59873
   },
   "region67": {
-    "title": "Bauru"
+    "title": "Bauru",
+    "populacao": 391740
   },
   "region68": {
-    "title": "Bebedouro"
+    "title": "Bebedouro",
+    "populacao": 78210
   },
   "region69": {
-    "title": "Bento de Abreu"
+    "title": "Bento de Abreu",
+    "populacao": 2642
   },
   "region70": {
-    "title": "Bernardino de Campos"
+    "title": "Bernardino de Campos",
+    "populacao": 11852
   },
   "region71": {
-    "title": "Bertioga"
+    "title": "Bertioga",
+    "populacao": 66873
   },
   "region72": {
-    "title": "Bilac"
+    "title": "Bilac",
+    "populacao": 7455
   },
   "region73": {
-    "title": "Birigui"
+    "title": "Birigui",
+    "populacao": 122988
   },
   "region74": {
-    "title": "Biritiba Mirim"
+    "title": "Biritiba Mirim",
+    "populacao": 30526
   },
   "region75": {
-    "title": "Boa Esperança do Sul"
+    "title": "Boa Esperança do Sul",
+    "populacao": 13135
   },
   "region76": {
-    "title": "Bocaina"
+    "title": "Bocaina",
+    "populacao": 11467
   },
   "region77": {
-    "title": "Bofete"
+    "title": "Bofete",
+    "populacao": 10688
   },
   "region78": {
-    "title": "Boituva"
+    "title": "Boituva",
+    "populacao": 63415
   },
   "region79": {
-    "title": "Bom Jesus dos Perdões"
+    "title": "Bom Jesus dos Perdões",
+    "populacao": 22501
   },
   "region80": {
-    "title": "Bom Sucesso de Itararé"
+    "title": "Bom Sucesso de Itararé",
+    "populacao": 3610
   },
   "region81": {
-    "title": "Borá"
+    "title": "Borá",
+    "populacao": 928
   },
   "region82": {
-    "title": "Boraceia"
+    "title": "Boraceia",
+    "populacao": null
   },
   "region83": {
-    "title": "Borborema"
+    "title": "Borborema",
+    "populacao": 14415
   },
   "region84": {
-    "title": "Borebi"
+    "title": "Borebi",
+    "populacao": 2787
   },
   "region85": {
-    "title": "Botucatu"
+    "title": "Botucatu",
+    "populacao": 150442
   },
   "region86": {
-    "title": "Bragança Paulista"
+    "title": "Bragança Paulista",
+    "populacao": 184634
   },
   "region87": {
-    "title": "Braúna"
+    "title": "Braúna",
+    "populacao": 5466
   },
   "region88": {
-    "title": "Brejo Alegre"
+    "title": "Brejo Alegre",
+    "populacao": 2605
   },
   "region89": {
-    "title": "Brodowski"
+    "title": "Brodowski",
+    "populacao": 26167
   },
   "region90": {
-    "title": "Brotas"
+    "title": "Brotas",
+    "populacao": 24423
   },
   "region91": {
-    "title": "Buri"
+    "title": "Buri",
+    "populacao": 20674
   },
   "region92": {
-    "title": "Buritama"
+    "title": "Buritama",
+    "populacao": 17597
   },
   "region93": {
-    "title": "Buritizal"
+    "title": "Buritizal",
+    "populacao": 4447
   },
   "region94": {
-    "title": "Cabrália Paulista"
+    "title": "Cabrália Paulista",
+    "populacao": 4362
   },
   "region95": {
-    "title": "Cabreúva"
+    "title": "Cabreúva",
+    "populacao": 48473
   },
   "region96": {
-    "title": "Caçapava"
+    "title": "Caçapava",
+    "populacao": 99678
   },
   "region97": {
-    "title": "Cachoeira Paulista"
+    "title": "Cachoeira Paulista",
+    "populacao": 32482
   },
   "region98": {
-    "title": "Caconde"
+    "title": "Caconde",
+    "populacao": 17266
   },
   "region99": {
-    "title": "Cafelândia"
+    "title": "Cafelândia",
+    "populacao": 16905
   },
   "region100": {
-    "title": "Caiabu"
+    "title": "Caiabu",
+    "populacao": 3745
   },
   "region101": {
-    "title": "Caieiras"
+    "title": "Caieiras",
+    "populacao": 98257
   },
   "region102": {
-    "title": "Caiuá"
+    "title": "Caiuá",
+    "populacao": 5585
   },
   "region103": {
-    "title": "Cajamar"
+    "title": "Cajamar",
+    "populacao": 97363
   },
   "region104": {
-    "title": "Cajati"
+    "title": "Cajati",
+    "populacao": 29257
   },
   "region105": {
-    "title": "Cajobi"
+    "title": "Cajobi",
+    "populacao": 9232
   },
   "region106": {
-    "title": "Cajuru"
+    "title": "Cajuru",
+    "populacao": 24217
   },
   "region107": {
-    "title": "Campina do Monte Alegre"
+    "title": "Campina do Monte Alegre",
+    "populacao": 6077
   },
   "region108": {
-    "title": "Campinas"
+    "title": "Campinas",
+    "populacao": 1185977
   },
   "region109": {
-    "title": "Campo Limpo Paulista"
+    "title": "Campo Limpo Paulista",
+    "populacao": 79663
   },
   "region110": {
-    "title": "Campos do Jordão"
+    "title": "Campos do Jordão",
+    "populacao": 47983
   },
   "region111": {
-    "title": "Campos Novos Paulistav"
+    "title": "Campos Novos Paulistav",
+    "populacao": null
   },
   "region112": {
-    "title": "Cananéia"
+    "title": "Cananéia",
+    "populacao": 12489
   },
   "region113": {
-    "title": "Canas"
+    "title": "Canas",
+    "populacao": 5049
   },
   "region114": {
-    "title": "Cândido Mota"
+    "title": "Cândido Mota",
+    "populacao": 30172
   },
   "region115": {
-    "title": "Cândido Rodrigues"
+    "title": "Cândido Rodrigues",
+    "populacao": 2951
   },
   "region116": {
-    "title": "Canitar"
+    "title": "Canitar",
+    "populacao": 6524
   },
   "region117": {
-    "title": "Capão Bonito"
+    "title": "Capão Bonito",
+    "populacao": 47403
   },
   "region118": {
-    "title": "Capela do Alto"
+    "title": "Capela do Alto",
+    "populacao": 23597
   },
   "region119": {
-    "title": "Capivari"
+    "title": "Capivari",
+    "populacao": 51318
   },
   "region120": {
-    "title": "Caraguatatuba"
+    "title": "Caraguatatuba",
+    "populacao": 141084
   },
   "region121": {
-    "title": "Carapicuíba"
+    "title": "Carapicuíba",
+    "populacao": 398462
   },
   "region122": {
-    "title": "Cardoso"
+    "title": "Cardoso",
+    "populacao": 11491
   },
   "region123": {
-    "title": "Casa Branca"
+    "title": "Casa Branca",
+    "populacao": 28786
   },
   "region124": {
-    "title": "Cássia dos Coqueiros"
+    "title": "Cássia dos Coqueiros",
+    "populacao": 2855
   },
   "region125": {
-    "title": "Castilho"
+    "title": "Castilho",
+    "populacao": 20418
   },
   "region126": {
-    "title": "Catanduva"
+    "title": "Catanduva",
+    "populacao": 119172
   },
   "region127": {
-    "title": "Catiguá"
+    "title": "Catiguá",
+    "populacao": 7105
   },
   "region128": {
-    "title": "Cedral"
+    "title": "Cedral",
+    "populacao": 13160
   },
   "region129": {
-    "title": "Cerqueira César"
+    "title": "Cerqueira César",
+    "populacao": 22076
   },
   "region130": {
-    "title": "Cerquilho"
+    "title": "Cerquilho",
+    "populacao": 46217
   },
   "region131": {
-    "title": "Cesário Lange"
+    "title": "Cesário Lange",
+    "populacao": 19588
   },
   "region132": {
-    "title": "Charqueada"
+    "title": "Charqueada",
+    "populacao": 15798
   },
   "region133": {
-    "title": "Clementina"
+    "title": "Clementina",
+    "populacao": 7087
   },
   "region134": {
-    "title": "Colina"
+    "title": "Colina",
+    "populacao": 18842
   },
   "region135": {
-    "title": "Colômbia"
+    "title": "Colômbia",
+    "populacao": 6781
   },
   "region136": {
-    "title": "Conchal"
+    "title": "Conchal",
+    "populacao": 29034
   },
   "region137": {
-    "title": "Conchas"
+    "title": "Conchas",
+    "populacao": 15381
   },
   "region138": {
-    "title": "Cordeirópolis"
+    "title": "Cordeirópolis",
+    "populacao": 25130
   },
   "region139": {
-    "title": "Coroados"
+    "title": "Coroados",
+    "populacao": 5498
   },
   "region140": {
-    "title": "Coronel Macedo"
+    "title": "Coronel Macedo",
+    "populacao": 4295
   },
   "region141": {
-    "title": "Corumbataí"
+    "title": "Corumbataí",
+    "populacao": 4285
   },
   "region142": {
-    "title": "Cosmópolis"
+    "title": "Cosmópolis",
+    "populacao": 61204
   },
   "region143": {
-    "title": "Cosmorama"
+    "title": "Cosmorama",
+    "populacao": 8968
   },
   "region144": {
-    "title": "Cotia"
+    "title": "Cotia",
+    "populacao": 287004
   },
   "region145": {
-    "title": "Cravinhos"
+    "title": "Cravinhos",
+    "populacao": 34252
   },
   "region146": {
-    "title": "Cristais Paulista"
+    "title": "Cristais Paulista",
+    "populacao": 9543
   },
   "region147": {
-    "title": "Cruzália"
+    "title": "Cruzália",
+    "populacao": 2129
   },
   "region148": {
-    "title": "Cruzeiro"
+    "title": "Cruzeiro",
+    "populacao": 76513
   },
   "region149": {
-    "title": "Cubatão"
+    "title": "Cubatão",
+    "populacao": 115082
   },
   "region150": {
-    "title": "Cunha"
+    "title": "Cunha",
+    "populacao": 22456
   },
   "region151": {
-    "title": "Descalvado"
+    "title": "Descalvado",
+    "populacao": 32622
   },
   "region152": {
-    "title": "Diadema"
+    "title": "Diadema",
+    "populacao": 404118
   },
   "region153": {
-    "title": "Dirce Reis"
+    "title": "Dirce Reis",
+    "populacao": 1641
   },
   "region154": {
-    "title": "Divinolândia"
+    "title": "Divinolândia",
+    "populacao": 11314
   },
   "region155": {
-    "title": "Dobrada"
+    "title": "Dobrada",
+    "populacao": 8958
   },
   "region156": {
-    "title": "Dois Córregos"
+    "title": "Dois Córregos",
+    "populacao": 24855
   },
   "region157": {
-    "title": "Dolcinópolis"
+    "title": "Dolcinópolis",
+    "populacao": 2250
   },
   "region158": {
-    "title": "Dourado"
+    "title": "Dourado",
+    "populacao": 8186
   },
   "region159": {
-    "title": "Dracena"
+    "title": "Dracena",
+    "populacao": 46664
   },
   "region160": {
-    "title": "Duartina"
+    "title": "Duartina",
+    "populacao": 12529
   },
   "region161": {
-    "title": "Dumont"
+    "title": "Dumont",
+    "populacao": 9719
   },
   "region162": {
-    "title": "Echaporã"
+    "title": "Echaporã",
+    "populacao": 6295
   },
   "region163": {
-    "title": "Eldorado"
+    "title": "Eldorado",
+    "populacao": 13162
   },
   "region164": {
-    "title": "Elias Fausto"
+    "title": "Elias Fausto",
+    "populacao": 18103
   },
   "region165": {
-    "title": "Elisiário"
+    "title": "Elisiário",
+    "populacao": 3189
   },
   "region166": {
-    "title": "Embaúba"
+    "title": "Embaúba",
+    "populacao": 2353
   },
   "region167": {
-    "title": "Embu das Artes"
+    "title": "Embu das Artes",
+    "populacao": 259323
   },
   "region168": {
-    "title": "Embu-Guaçu"
+    "title": "Embu-Guaçu",
+    "populacao": 68805
   },
   "region169": {
-    "title": "Emilianópolis"
+    "title": "Emilianópolis",
+    "populacao": 3062
   },
   "region170": {
-    "title": "Engenheiro Coelho"
+    "title": "Engenheiro Coelho",
+    "populacao": 20139
   },
   "region171": {
-    "title": "Espírito Santo do Pinhal"
+    "title": "Espírito Santo do Pinhal",
+    "populacao": 40681
   },
   "region172": {
-    "title": "Espírito Santo do Turvo"
+    "title": "Espírito Santo do Turvo",
+    "populacao": 4217
   },
   "region173": {
-    "title": "Estrela d'Oeste Estrela"
+    "title": "Estrela d'Oeste Estrela",
+    "populacao": null
   },
   "region174": {
-    "title": "Estrela do Norte"
+    "title": "Estrela do Norte",
+    "populacao": 2749
   },
   "region175": {
-    "title": "Euclides da Cunha Paulista"
+    "title": "Euclides da Cunha Paulista",
+    "populacao": 7928
   },
   "region176": {
-    "title": "Fartura"
+    "title": "Fartura",
+    "populacao": 16984
   },
   "region177": {
-    "title": "Fernandópolis"
+    "title": "Fernandópolis",
+    "populacao": 73286
   },
   "region178": {
-    "title": "Fernando Prestes"
+    "title": "Fernando Prestes",
+    "populacao": 6066
   },
   "region179": {
-    "title": "Fernão"
+    "title": "Fernão",
+    "populacao": 1689
   },
   "region180": {
-    "title": "Ferraz de Vasconcelos"
+    "title": "Ferraz de Vasconcelos",
+    "populacao": 185622
   },
   "region181": {
-    "title": "Flora Rica"
+    "title": "Flora Rica",
+    "populacao": 1492
   },
   "region182": {
-    "title": "Floreal"
+    "title": "Floreal",
+    "populacao": 2756
   },
   "region183": {
-    "title": "Flórida Paulista"
+    "title": "Flórida Paulista",
+    "populacao": 13171
   },
   "region184": {
-    "title": "Florínea"
+    "title": "Florínea",
+    "populacao": 3987
   },
   "region185": {
-    "title": "Franca"
+    "title": "Franca",
+    "populacao": 364331
   },
   "region186": {
-    "title": "Francisco Morato"
+    "title": "Francisco Morato",
+    "populacao": 171107
   },
   "region187": {
-    "title": "Franco da Rocha"
+    "title": "Franco da Rocha",
+    "populacao": 149786
   },
   "region188": {
-    "title": "Gabriel Monteiro"
+    "title": "Gabriel Monteiro",
+    "populacao": 2811
   },
   "region189": {
-    "title": "Gália"
+    "title": "Gália",
+    "populacao": 6435
   },
   "region190": {
-    "title": "Garça"
+    "title": "Garça",
+    "populacao": 43115
   },
   "region191": {
-    "title": "Gastão Vidigal"
+    "title": "Gastão Vidigal",
+    "populacao": 3235
   },
   "region192": {
-    "title": "Gavião Peixoto"
+    "title": "Gavião Peixoto",
+    "populacao": 4797
   },
   "region193": {
-    "title": "General Salgado"
+    "title": "General Salgado",
+    "populacao": 10449
   },
   "region194": {
-    "title": "Getulina"
+    "title": "Getulina",
+    "populacao": 10355
   },
   "region195": {
-    "title": "Glicério"
+    "title": "Glicério",
+    "populacao": 4173
   },
   "region196": {
-    "title": "Guaiçara"
+    "title": "Guaiçara",
+    "populacao": 11459
   },
   "region197": {
-    "title": "Guaimbê"
+    "title": "Guaimbê",
+    "populacao": 5606
   },
   "region198": {
-    "title": "Guaíra"
+    "title": "Guaíra",
+    "populacao": 40424
   },
   "region199": {
-    "title": "Guapiaçu"
+    "title": "Guapiaçu",
+    "populacao": 22316
   },
   "region200": {
-    "title": "Guapiara"
+    "title": "Guapiara",
+    "populacao": 17256
   },
   "region201": {
-    "title": "Guará"
+    "title": "Guará",
+    "populacao": 18790
   },
   "region202": {
-    "title": "Guaraçaí"
+    "title": "Guaraçaí",
+    "populacao": 7486
   },
   "region203": {
-    "title": "Guaraci"
+    "title": "Guaraci",
+    "populacao": 10542
   },
   "region204": {
-    "title": "Guarani d'Oeste"
+    "title": "Guarani d'Oeste",
+    "populacao": 1999
   },
   "region205": {
-    "title": "Guarantã"
+    "title": "Guarantã",
+    "populacao": 6531
   },
   "region206": {
-    "title": "Guararapes"
+    "title": "Guararapes",
+    "populacao": 31872
   },
   "region207": {
-    "title": "Guararema"
+    "title": "Guararema",
+    "populacao": 32436
   },
   "region208": {
-    "title": "Guaratinguetá"
+    "title": "Guaratinguetá",
+    "populacao": 121710
   },
   "region209": {
-    "title": "Guareí"
+    "title": "Guareí",
+    "populacao": 15268
   },
   "region210": {
-    "title": "Guariba"
+    "title": "Guariba",
+    "populacao": 38609
   },
   "region211": {
-    "title": "Guarujá"
+    "title": "Guarujá",
+    "populacao": 294973
   },
   "region212": {
-    "title": "Guarulhos"
+    "title": "Guarulhos",
+    "populacao": 1345364
   },
   "region213": {
-    "title": "Guatapará"
+    "title": "Guatapará",
+    "populacao": 7462
   },
   "region214": {
-    "title": "Guzolândia"
+    "title": "Guzolândia",
+    "populacao": 4276
   },
   "region215": {
-    "title": "Herculândia"
+    "title": "Herculândia",
+    "populacao": 9302
   },
   "region216": {
-    "title": "Holambra"
+    "title": "Holambra",
+    "populacao": 15596
   },
   "region217": {
-    "title": "Hortolândia"
+    "title": "Hortolândia",
+    "populacao": 247331
   },
   "region218": {
-    "title": "Iacanga"
+    "title": "Iacanga",
+    "populacao": 10633
   },
   "region219": {
-    "title": "Iacri"
+    "title": "Iacri",
+    "populacao": 6207
   },
   "region220": {
-    "title": "Iaras"
+    "title": "Iaras",
+    "populacao": 8257
   },
   "region221": {
-    "title": "Ibaté"
+    "title": "Ibaté",
+    "populacao": 33110
   },
   "region222": {
-    "title": "Ibirá"
+    "title": "Ibirá",
+    "populacao": 11934
   },
   "region223": {
-    "title": "Ibirarema"
+    "title": "Ibirarema",
+    "populacao": 6461
   },
   "region224": {
-    "title": "Ibitinga"
+    "title": "Ibitinga",
+    "populacao": 61908
   },
   "region225": {
-    "title": "Ibiúna"
+    "title": "Ibiúna",
+    "populacao": 77651
   },
   "region226": {
-    "title": "Icém"
+    "title": "Icém",
+    "populacao": 7969
   },
   "region227": {
-    "title": "Iepê"
+    "title": "Iepê",
+    "populacao": 7739
   },
   "region228": {
-    "title": "Igaraçu do Tietê"
+    "title": "Igaraçu do Tietê",
+    "populacao": 23430
   },
   "region229": {
-    "title": "Igarapava"
+    "title": "Igarapava",
+    "populacao": 26755
   },
   "region230": {
-    "title": "Igaratá"
+    "title": "Igaratá",
+    "populacao": 10904
   },
   "region231": {
-    "title": "Iguape"
+    "title": "Iguape",
+    "populacao": 29881
   },
   "region232": {
-    "title": "Ilhabela"
+    "title": "Ilhabela",
+    "populacao": 36329
   },
   "region233": {
-    "title": "Ilha Comprida"
+    "title": "Ilha Comprida",
+    "populacao": 13955
   },
   "region234": {
-    "title": "Ilha Solteira"
+    "title": "Ilha Solteira",
+    "populacao": 26240
   },
   "region235": {
-    "title": "Indaiatuba"
+    "title": "Indaiatuba",
+    "populacao": 267796
   },
   "region236": {
-    "title": "Indiana"
+    "title": "Indiana",
+    "populacao": 5191
   },
   "region237": {
-    "title": "Indiaporã"
+    "title": "Indiaporã",
+    "populacao": 4109
   },
   "region238": {
-    "title": "Inúbia Paulista"
+    "title": "Inúbia Paulista",
+    "populacao": 3671
   },
   "region239": {
-    "title": "Ipaussu"
+    "title": "Ipaussu",
+    "populacao": 13933
   },
   "region240": {
-    "title": "Iperó"
+    "title": "Iperó",
+    "populacao": 37999
   },
   "region241": {
-    "title": "Ipeúna"
+    "title": "Ipeúna",
+    "populacao": 6999
   },
   "region242": {
-    "title": "Ipiguá"
+    "title": "Ipiguá",
+    "populacao": 7037
   },
   "region243": {
-    "title": "Iporanga"
+    "title": "Iporanga",
+    "populacao": 4091
   },
   "region244": {
-    "title": "Ipuã"
+    "title": "Ipuã",
+    "populacao": 14691
   },
   "region245": {
-    "title": "Iracemápolis"
+    "title": "Iracemápolis",
+    "populacao": 22435
   },
   "region246": {
-    "title": "Irapuã"
+    "title": "Irapuã",
+    "populacao": 6946
   },
   "region247": {
-    "title": "Irapuru"
+    "title": "Irapuru",
+    "populacao": 7145
   },
   "region248": {
-    "title": "Itaberá"
+    "title": "Itaberá",
+    "populacao": 18258
   },
   "region249": {
-    "title": "Itaí"
+    "title": "Itaí",
+    "populacao": 25930
   },
   "region250": {
-    "title": "Itajobi"
+    "title": "Itajobi",
+    "populacao": 17420
   },
   "region251": {
-    "title": "Itaju"
+    "title": "Itaju",
+    "populacao": 3702
   },
   "region252": {
-    "title": "Itanhaém"
+    "title": "Itanhaém",
+    "populacao": 117435
   },
   "region253": {
-    "title": "Itaoca"
+    "title": "Itaoca",
+    "populacao": 3490
   },
   "region254": {
-    "title": "Itapecerica da Serra"
+    "title": "Itapecerica da Serra",
+    "populacao": 163928
   },
   "region255": {
-    "title": "Itapetininga"
+    "title": "Itapetininga",
+    "populacao": 163774
   },
   "region256": {
-    "title": "Itapeva"
+    "title": "Itapeva",
+    "populacao": 92324
   },
   "region257": {
-    "title": "Itapevi"
+    "title": "Itapevi",
+    "populacao": 241924
   },
   "region258": {
-    "title": "Itapira"
+    "title": "Itapira",
+    "populacao": 73919
   },
   "region259": {
-    "title": "Itapirapuã Paulista"
+    "title": "Itapirapuã Paulista",
+    "populacao": 4405
   },
   "region260": {
-    "title": "Itápolis"
+    "title": "Itápolis",
+    "populacao": 40464
   },
   "region261": {
-    "title": "Itaporanga"
+    "title": "Itaporanga",
+    "populacao": 14260
   },
   "region262": {
-    "title": "Itapuí"
+    "title": "Itapuí",
+    "populacao": 13984
   },
   "region263": {
-    "title": "Itapura"
+    "title": "Itapura",
+    "populacao": 4014
   },
   "region264": {
-    "title": "Itaquaquecetuba"
+    "title": "Itaquaquecetuba",
+    "populacao": 382521
   },
   "region265": {
-    "title": "Itararé"
+    "title": "Itararé",
+    "populacao": 45327
   },
   "region266": {
-    "title": "Itariri"
+    "title": "Itariri",
+    "populacao": 15762
   },
   "region267": {
-    "title": "Itatiba"
+    "title": "Itatiba",
+    "populacao": 126403
   },
   "region268": {
-    "title": "Itatinga"
+    "title": "Itatinga",
+    "populacao": 19427
   },
   "region269": {
-    "title": "Itirapina"
+    "title": "Itirapina",
+    "populacao": 16433
   },
   "region270": {
-    "title": "Itirapuã"
+    "title": "Itirapuã",
+    "populacao": 5861
   },
   "region271": {
-    "title": "Itobi"
+    "title": "Itobi",
+    "populacao": 8210
   },
   "region272": {
-    "title": "Itu"
+    "title": "Itu",
+    "populacao": 174561
   },
   "region273": {
-    "title": "Itupeva"
+    "title": "Itupeva",
+    "populacao": 74119
   },
   "region274": {
-    "title": "Ituverava"
+    "title": "Ituverava",
+    "populacao": 38451
   },
   "region275": {
-    "title": "Jaborandi"
+    "title": "Jaborandi",
+    "populacao": 6293
   },
   "region276": {
-    "title": "Jaboticabal"
+    "title": "Jaboticabal",
+    "populacao": 73467
   },
   "region277": {
-    "title": "Jacareí"
+    "title": "Jacareí",
+    "populacao": 249968
   },
   "region278": {
-    "title": "Jaci"
+    "title": "Jaci",
+    "populacao": 7878
   },
   "region279": {
-    "title": "Jacupiranga"
+    "title": "Jacupiranga",
+    "populacao": 16254
   },
   "region280": {
-    "title": "Jaguariúna"
+    "title": "Jaguariúna",
+    "populacao": 61801
   },
   "region281": {
-    "title": "Jales"
+    "title": "Jales",
+    "populacao": 50017
   },
   "region282": {
-    "title": "Jambeiro"
+    "title": "Jambeiro",
+    "populacao": 6575
   },
   "region283": {
-    "title": "Jandira"
+    "title": "Jandira",
+    "populacao": 121988
   },
   "region284": {
-    "title": "Jardinópolis"
+    "title": "Jardinópolis",
+    "populacao": 46868
   },
   "region285": {
-    "title": "Jarinu"
+    "title": "Jarinu",
+    "populacao": 39531
   },
   "region286": {
-    "title": "Jaú"
+    "title": "Jaú",
+    "populacao": 137323
   },
   "region287": {
-    "title": "Jeriquara"
+    "title": "Jeriquara",
+    "populacao": 3976
   },
   "region288": {
-    "title": "Joanópolis"
+    "title": "Joanópolis",
+    "populacao": 13095
   },
   "region289": {
-    "title": "João Ramalho"
+    "title": "João Ramalho",
+    "populacao": 4456
   },
   "region290": {
-    "title": "José Bonifácio"
+    "title": "José Bonifácio",
+    "populacao": 37859
   },
   "region291": {
-    "title": "Júlio Mesquita"
+    "title": "Júlio Mesquita",
+    "populacao": 4308
   },
   "region292": {
-    "title": "Jumirim"
+    "title": "Jumirim",
+    "populacao": 3123
   },
   "region293": {
-    "title": "Jundiaí"
+    "title": "Jundiaí",
+    "populacao": 460313
   },
   "region294": {
-    "title": "Junqueirópolis"
+    "title": "Junqueirópolis",
+    "populacao": 20878
   },
   "region295": {
-    "title": "Juquiá"
+    "title": "Juquiá",
+    "populacao": 17255
   },
   "region296": {
-    "title": "Juquitiba"
+    "title": "Juquitiba",
+    "populacao": 28007
   },
   "region297": {
-    "title": "Lagoinha"
+    "title": "Lagoinha",
+    "populacao": 5182
   },
   "region298": {
-    "title": "Laranjal Paulista"
+    "title": "Laranjal Paulista",
+    "populacao": 27009
   },
   "region299": {
-    "title": "Lavínia"
+    "title": "Lavínia",
+    "populacao": 9909
   },
   "region300": {
-    "title": "Lavrinhas"
+    "title": "Lavrinhas",
+    "populacao": 7328
   },
   "region301": {
-    "title": "Leme"
+    "title": "Leme",
+    "populacao": 101316
   },
   "region302": {
-    "title": "Lençóis Paulista"
+    "title": "Lençóis Paulista",
+    "populacao": 68395
   },
   "region303": {
-    "title": "Limeira"
+    "title": "Limeira",
+    "populacao": 300728
   },
   "region304": {
-    "title": "Lindoia"
+    "title": "Lindoia",
+    "populacao": null
   },
   "region305": {
-    "title": "Lins"
+    "title": "Lins",
+    "populacao": 76729
   },
   "region306": {
-    "title": "Lorena"
+    "title": "Lorena",
+    "populacao": 87370
   },
   "region307": {
-    "title": "Lourdes"
+    "title": "Lourdes",
+    "populacao": 1968
   },
   "region308": {
-    "title": "Louveira"
+    "title": "Louveira",
+    "populacao": 54111
   },
   "region309": {
-    "title": "Lucélia"
+    "title": "Lucélia",
+    "populacao": 20372
   },
   "region310": {
-    "title": "Lucianópolis"
+    "title": "Lucianópolis",
+    "populacao": 2419
   },
   "region311": {
-    "title": "Luiz Antônio"
+    "title": "Luiz Antônio",
+    "populacao": null
   },
   "region312": {
-    "title": "Luiziânia"
+    "title": "Luiziânia",
+    "populacao": 4751
   },
   "region313": {
-    "title": "Lupércio"
+    "title": "Lupércio",
+    "populacao": 4017
   },
   "region314": {
-    "title": "Lutécia"
+    "title": "Lutécia",
+    "populacao": 2699
   },
   "region315": {
-    "title": "Macatuba"
+    "title": "Macatuba",
+    "populacao": 17120
   },
   "region316": {
-    "title": "Macaubal"
+    "title": "Macaubal",
+    "populacao": 7587
   },
   "region317": {
-    "title": "Macedônia"
+    "title": "Macedônia",
+    "populacao": 4048
   },
   "region318": {
-    "title": "Magda"
+    "title": "Magda",
+    "populacao": 3212
   },
   "region319": {
-    "title": "Mairinque"
+    "title": "Mairinque",
+    "populacao": 51660
   },
   "region320": {
-    "title": "Mairiporã"
+    "title": "Mairiporã",
+    "populacao": 97399
   },
   "region321": {
-    "title": "Manduri"
+    "title": "Manduri",
+    "populacao": 10092
   },
   "region322": {
-    "title": "Marabá Paulista"
+    "title": "Marabá Paulista",
+    "populacao": 4627
   },
   "region323": {
-    "title": "Maracaí"
+    "title": "Maracaí",
+    "populacao": 12826
   },
   "region324": {
-    "title": "Marapoama"
+    "title": "Marapoama",
+    "populacao": 3392
   },
   "region325": {
-    "title": "Mariápolis"
+    "title": "Mariápolis",
+    "populacao": 3539
   },
   "region326": {
-    "title": "Marília"
+    "title": "Marília",
+    "populacao": 246627
   },
   "region327": {
-    "title": "Marinópolis"
+    "title": "Marinópolis",
+    "populacao": 1870
   },
   "region328": {
-    "title": "Martinópolis"
+    "title": "Martinópolis",
+    "populacao": 25299
   },
   "region329": {
-    "title": "Matão"
+    "title": "Matão",
+    "populacao": 80998
   },
   "region330": {
-    "title": "Mauá"
+    "title": "Mauá",
+    "populacao": 429380
   },
   "region331": {
-    "title": "Mendonça"
+    "title": "Mendonça",
+    "populacao": 6369
   },
   "region332": {
-    "title": "Meridiano"
+    "title": "Meridiano",
+    "populacao": 4697
   },
   "region333": {
-    "title": "Mesópolis"
+    "title": "Mesópolis",
+    "populacao": 1988
   },
   "region334": {
-    "title": "Miguelópolis"
+    "title": "Miguelópolis",
+    "populacao": 19655
   },
   "region335": {
-    "title": "Mineiros do Tietê"
+    "title": "Mineiros do Tietê",
+    "populacao": 11349
   },
   "region336": {
-    "title": "Miracatu"
+    "title": "Miracatu",
+    "populacao": 18679
   },
   "region337": {
-    "title": "Mira Estrela"
+    "title": "Mira Estrela",
+    "populacao": 3199
   },
   "region338": {
-    "title": "Mirandópolis"
+    "title": "Mirandópolis",
+    "populacao": 28737
   },
   "region339": {
-    "title": "Mirante do Paranapanema"
+    "title": "Mirante do Paranapanema",
+    "populacao": 16069
   },
   "region340": {
-    "title": "Mirassol"
+    "title": "Mirassol",
+    "populacao": 65485
   },
   "region341": {
-    "title": "Mirassolândia"
+    "title": "Mirassolândia",
+    "populacao": 4771
   },
   "region342": {
-    "title": "Mococa"
+    "title": "Mococa",
+    "populacao": 69324
   },
   "region343": {
-    "title": "Mogi das Cruzes"
+    "title": "Mogi das Cruzes",
+    "populacao": 468120
   },
   "region344": {
-    "title": "Mogi Guaçu"
+    "title": "Mogi Guaçu",
+    "populacao": 159735
   },
   "region345": {
-    "title": "Mogi Mirim"
+    "title": "Mogi Mirim",
+    "populacao": 95534
   },
   "region346": {
-    "title": "Mombuca"
+    "title": "Mombuca",
+    "populacao": 3815
   },
   "region347": {
-    "title": "Monções"
+    "title": "Monções",
+    "populacao": 1954
   },
   "region348": {
-    "title": "Mongaguá"
+    "title": "Mongaguá",
+    "populacao": 64519
   },
   "region349": {
-    "title": "Monte Alegre do Sul"
+    "title": "Monte Alegre do Sul",
+    "populacao": 8873
   },
   "region350": {
-    "title": "Monte Alto"
+    "title": "Monte Alto",
+    "populacao": 48725
   },
   "region351": {
-    "title": "Monte Aprazível"
+    "title": "Monte Aprazível",
+    "populacao": 22650
   },
   "region352": {
-    "title": "Monte Azul Paulista"
+    "title": "Monte Azul Paulista",
+    "populacao": 18363
   },
   "region353": {
-    "title": "Monte Castelo"
+    "title": "Monte Castelo",
+    "populacao": 4301
   },
   "region354": {
-    "title": "Monteiro Lobato"
+    "title": "Monteiro Lobato",
+    "populacao": 4205
   },
   "region355": {
-    "title": "Monte Mor"
+    "title": "Monte Mor",
+    "populacao": 67296
   },
   "region356": {
-    "title": "Morro Agudo"
+    "title": "Morro Agudo",
+    "populacao": 28561
   },
   "region357": {
-    "title": "Morungaba"
+    "title": "Morungaba",
+    "populacao": 14081
   },
   "region358": {
-    "title": "Motuca"
+    "title": "Motuca",
+    "populacao": 4079
   },
   "region359": {
-    "title": "Murutinga do Sul"
+    "title": "Murutinga do Sul",
+    "populacao": 3763
   },
   "region360": {
-    "title": "Nantes"
+    "title": "Nantes",
+    "populacao": 2699
   },
   "region361": {
-    "title": "Narandiba"
+    "title": "Narandiba",
+    "populacao": 5908
   },
   "region362": {
-    "title": "Natividade da Serra"
+    "title": "Natividade da Serra",
+    "populacao": 7134
   },
   "region363": {
-    "title": "Nazaré Paulista"
+    "title": "Nazaré Paulista",
+    "populacao": 18620
   },
   "region364": {
-    "title": "Neves Paulista"
+    "title": "Neves Paulista",
+    "populacao": 9921
   },
   "region365": {
-    "title": "Nhandeara"
+    "title": "Nhandeara",
+    "populacao": 9944
   },
   "region366": {
-    "title": "Nipoã"
+    "title": "Nipoã",
+    "populacao": 4860
   },
   "region367": {
-    "title": "Nova Aliança"
+    "title": "Nova Aliança",
+    "populacao": 6858
   },
   "region368": {
-    "title": "Nova Campina"
+    "title": "Nova Campina",
+    "populacao": 8631
   },
   "region369": {
-    "title": "Nova Canaã Paulista"
+    "title": "Nova Canaã Paulista",
+    "populacao": 2058
   },
   "region370": {
-    "title": "Nova Castilho"
+    "title": "Nova Castilho",
+    "populacao": 1074
   },
   "region371": {
-    "title": "Nova Europa"
+    "title": "Nova Europa",
+    "populacao": 9459
   },
   "region372": {
-    "title": "Nova Granada"
+    "title": "Nova Granada",
+    "populacao": 19725
   },
   "region373": {
-    "title": "Nova Guataporanga"
+    "title": "Nova Guataporanga",
+    "populacao": 2188
   },
   "region374": {
-    "title": "Nova Independência"
+    "title": "Nova Independência",
+    "populacao": 4795
   },
   "region375": {
-    "title": "Novais"
+    "title": "Novais",
+    "populacao": 4469
   },
   "region376": {
-    "title": "Nova Luzitânia"
+    "title": "Nova Luzitânia",
+    "populacao": 2838
   },
   "region377": {
-    "title": "Nova Odessa"
+    "title": "Nova Odessa",
+    "populacao": 64228
   },
   "region378": {
-    "title": "Novo Horizonte"
+    "title": "Novo Horizonte",
+    "populacao": 39435
   },
   "region379": {
-    "title": "Nuporanga"
+    "title": "Nuporanga",
+    "populacao": 7550
   },
   "region380": {
-    "title": "Ocauçu"
+    "title": "Ocauçu",
+    "populacao": 4412
   },
   "region381": {
-    "title": "Óleo"
+    "title": "Óleo",
+    "populacao": 2540
   },
   "region382": {
-    "title": "Olímpia"
+    "title": "Olímpia",
+    "populacao": 56701
   },
   "region383": {
-    "title": "Onda Verde"
+    "title": "Onda Verde",
+    "populacao": 4912
   },
   "region384": {
-    "title": "Oriente"
+    "title": "Oriente",
+    "populacao": 6180
   },
   "region385": {
-    "title": "Orindiúva"
+    "title": "Orindiúva",
+    "populacao": 6145
   },
   "region386": {
-    "title": "Orlândia"
+    "title": "Orlândia",
+    "populacao": 39193
   },
   "region387": {
-    "title": "Osasco"
+    "title": "Osasco",
+    "populacao": 756952
   },
   "region388": {
-    "title": "Oscar Bressane"
+    "title": "Oscar Bressane",
+    "populacao": 2504
   },
   "region389": {
-    "title": "Osvaldo Cruz"
+    "title": "Osvaldo Cruz",
+    "populacao": 32099
   },
   "region390": {
-    "title": "Ourinhos"
+    "title": "Ourinhos",
+    "populacao": 106877
   },
   "region391": {
-    "title": "Ouroeste"
+    "title": "Ouroeste",
+    "populacao": 10596
   },
   "region392": {
-    "title": "Ouro Verde"
+    "title": "Ouro Verde",
+    "populacao": 7901
   },
   "region393": {
-    "title": "Pacaembu"
+    "title": "Pacaembu",
+    "populacao": 15217
   },
   "region394": {
-    "title": "Palestina"
+    "title": "Palestina",
+    "populacao": 11689
   },
   "region395": {
-    "title": "Palmares Paulista"
+    "title": "Palmares Paulista",
+    "populacao": 9709
   },
   "region396": {
-    "title": "Palmeira d'Oeste"
+    "title": "Palmeira d'Oeste",
+    "populacao": 8994
   },
   "region397": {
-    "title": "Palmital"
+    "title": "Palmital",
+    "populacao": 19767
   },
   "region398": {
-    "title": "Panorama"
+    "title": "Panorama",
+    "populacao": 15214
   },
   "region399": {
-    "title": "Paraguaçu Paulista"
+    "title": "Paraguaçu Paulista",
+    "populacao": 42087
   },
   "region400": {
-    "title": "Paraibuna"
+    "title": "Paraibuna",
+    "populacao": 17950
   },
   "region401": {
-    "title": "Paraíso"
+    "title": "Paraíso",
+    "populacao": 6211
   },
   "region402": {
-    "title": "Paranapanema"
+    "title": "Paranapanema",
+    "populacao": 19799
   },
   "region403": {
-    "title": "Paranapuã"
+    "title": "Paranapuã",
+    "populacao": 4111
   },
   "region404": {
-    "title": "Parapuã"
+    "title": "Parapuã",
+    "populacao": 10729
   },
   "region405": {
-    "title": "Pardinho"
+    "title": "Pardinho",
+    "populacao": 7382
   },
   "region406": {
-    "title": "Pariquera-Açu"
+    "title": "Pariquera-Açu",
+    "populacao": 19576
   },
   "region407": {
-    "title": "Parisi"
+    "title": "Parisi",
+    "populacao": 3001
   },
   "region408": {
-    "title": "Patrocínio Paulista"
+    "title": "Patrocínio Paulista",
+    "populacao": 14837
   },
   "region409": {
-    "title": "Paulicéia"
+    "title": "Paulicéia",
+    "populacao": 8200
   },
   "region410": {
-    "title": "Paulínia"
+    "title": "Paulínia",
+    "populacao": 115690
   },
   "region411": {
-    "title": "Paulistânia"
+    "title": "Paulistânia",
+    "populacao": 2146
   },
   "region412": {
-    "title": "Paulo de Faria"
+    "title": "Paulo de Faria",
+    "populacao": 7430
   },
   "region413": {
-    "title": "Pederneiras"
+    "title": "Pederneiras",
+    "populacao": 46223
   },
   "region414": {
-    "title": "Pedra Bela"
+    "title": "Pedra Bela",
+    "populacao": 6718
   },
   "region415": {
-    "title": "Pedranópolis"
+    "title": "Pedranópolis",
+    "populacao": 2848
   },
   "region416": {
-    "title": "Pedregulho"
+    "title": "Pedregulho",
+    "populacao": 15742
   },
   "region417": {
-    "title": "Pedreira"
+    "title": "Pedreira",
+    "populacao": 44332
   },
   "region418": {
-    "title": "Pedrinhas Paulista"
+    "title": "Pedrinhas Paulista",
+    "populacao": 2838
   },
   "region419": {
-    "title": "Pedro de Toledo"
+    "title": "Pedro de Toledo",
+    "populacao": 11539
   },
   "region420": {
-    "title": "Penápolis"
+    "title": "Penápolis",
+    "populacao": 63317
   },
   "region421": {
-    "title": "Pereira Barreto"
+    "title": "Pereira Barreto",
+    "populacao": 24389
   },
   "region422": {
-    "title": "Pereiras"
+    "title": "Pereiras",
+    "populacao": 8969
   },
   "region423": {
-    "title": "Peruíbe"
+    "title": "Peruíbe",
+    "populacao": 70543
   },
   "region424": {
-    "title": "Piacatu"
+    "title": "Piacatu",
+    "populacao": 5623
   },
   "region425": {
-    "title": "Piedade"
+    "title": "Piedade",
+    "populacao": 54237
   },
   "region426": {
-    "title": "Pilar do Sul"
+    "title": "Pilar do Sul",
+    "populacao": 28417
   },
   "region427": {
-    "title": "Pindamonhangaba"
+    "title": "Pindamonhangaba",
+    "populacao": 172027
   },
   "region428": {
-    "title": "Pindorama"
+    "title": "Pindorama",
+    "populacao": 14721
   },
   "region429": {
-    "title": "Pinhalzinho"
+    "title": "Pinhalzinho",
+    "populacao": 15605
   },
   "region430": {
-    "title": "Piquerobi"
+    "title": "Piquerobi",
+    "populacao": 3296
   },
   "region431": {
-    "title": "Piquete"
+    "title": "Piquete",
+    "populacao": 12570
   },
   "region432": {
-    "title": "Piracaia"
+    "title": "Piracaia",
+    "populacao": 26764
   },
   "region433": {
-    "title": "Piracicaba"
+    "title": "Piracicaba",
+    "populacao": 438827
   },
   "region434": {
-    "title": "Piraju"
+    "title": "Piraju",
+    "populacao": 30261
   },
   "region435": {
-    "title": "Pirajuí"
+    "title": "Pirajuí",
+    "populacao": 22743
   },
   "region436": {
-    "title": "Pirangi"
+    "title": "Pirangi",
+    "populacao": 11076
   },
   "region437": {
-    "title": "Pirapora do Bom Jesus"
+    "title": "Pirapora do Bom Jesus",
+    "populacao": 18836
   },
   "region438": {
-    "title": "Pirapozinho"
+    "title": "Pirapozinho",
+    "populacao": 26065
   },
   "region439": {
-    "title": "Pirassununga"
+    "title": "Pirassununga",
+    "populacao": 75475
   },
   "region440": {
-    "title": "Piratininga"
+    "title": "Piratininga",
+    "populacao": 15554
   },
   "region441": {
-    "title": "Pitangueiras"
+    "title": "Pitangueiras",
+    "populacao": 34416
   },
   "region442": {
-    "title": "Planalto"
+    "title": "Planalto",
+    "populacao": 4454
   },
   "region443": {
-    "title": "Platina"
+    "title": "Platina",
+    "populacao": 3061
   },
   "region444": {
-    "title": "Poá"
+    "title": "Poá",
+    "populacao": 106431
   },
   "region445": {
-    "title": "Poloni"
+    "title": "Poloni",
+    "populacao": 5696
   },
   "region446": {
-    "title": "Pompeia"
+    "title": "Pompeia",
+    "populacao": null
   },
   "region447": {
-    "title": "Pongaí"
+    "title": "Pongaí",
+    "populacao": 3443
   },
   "region448": {
-    "title": "Pontal"
+    "title": "Pontal",
+    "populacao": 38376
   },
   "region449": {
-    "title": "Pontalinda"
+    "title": "Pontalinda",
+    "populacao": 4196
   },
   "region450": {
-    "title": "Pontes Gestal"
+    "title": "Pontes Gestal",
+    "populacao": 2415
   },
   "region451": {
-    "title": "Populina"
+    "title": "Populina",
+    "populacao": 4185
   },
   "region452": {
-    "title": "Porangaba"
+    "title": "Porangaba",
+    "populacao": 10773
   },
   "region453": {
-    "title": "Porto Feliz"
+    "title": "Porto Feliz",
+    "populacao": 58345
   },
   "region454": {
-    "title": "Porto Ferreira"
+    "title": "Porto Ferreira",
+    "populacao": 53940
   },
   "region455": {
-    "title": "Potim"
+    "title": "Potim",
+    "populacao": 20767
   },
   "region456": {
-    "title": "Potirendaba"
+    "title": "Potirendaba",
+    "populacao": 18994
   },
   "region457": {
-    "title": "Pracinha"
+    "title": "Pracinha",
+    "populacao": 2599
   },
   "region458": {
-    "title": "Pradópolis"
+    "title": "Pradópolis",
+    "populacao": 17309
   },
   "region459": {
-    "title": "Praia Grande"
+    "title": "Praia Grande",
+    "populacao": 365577
   },
   "region460": {
-    "title": "Pratânia"
+    "title": "Pratânia",
+    "populacao": 5246
   },
   "region461": {
-    "title": "Presidente Alves"
+    "title": "Presidente Alves",
+    "populacao": 3841
   },
   "region462": {
-    "title": "Presidente Bernardes"
+    "title": "Presidente Bernardes",
+    "populacao": 14772
   },
   "region463": {
-    "title": "Presidente Epitácio"
+    "title": "Presidente Epitácio",
+    "populacao": 40383
   },
   "region464": {
-    "title": "Presidente Prudente"
+    "title": "Presidente Prudente",
+    "populacao": 234083
   },
   "region465": {
-    "title": "Presidente Venceslau"
+    "title": "Presidente Venceslau",
+    "populacao": 35902
   },
   "region466": {
-    "title": "Promissão"
+    "title": "Promissão",
+    "populacao": 35991
   },
   "region467": {
-    "title": "Quadra"
+    "title": "Quadra",
+    "populacao": 3472
   },
   "region468": {
-    "title": "Quatá"
+    "title": "Quatá",
+    "populacao": 13399
   },
   "region469": {
-    "title": "Queiroz"
+    "title": "Queiroz",
+    "populacao": 3351
   },
   "region470": {
-    "title": "Queluz"
+    "title": "Queluz",
+    "populacao": 9146
   },
   "region471": {
-    "title": "Quintana"
+    "title": "Quintana",
+    "populacao": 7225
   },
   "region472": {
-    "title": "Rafard"
+    "title": "Rafard",
+    "populacao": 9133
   },
   "region473": {
-    "title": "Rancharia"
+    "title": "Rancharia",
+    "populacao": 29305
   },
   "region474": {
-    "title": "Redenção da Serra"
+    "title": "Redenção da Serra",
+    "populacao": 4611
   },
   "region475": {
-    "title": "Regente Feijó"
+    "title": "Regente Feijó",
+    "populacao": 20565
   },
   "region476": {
-    "title": "Reginópolis"
+    "title": "Reginópolis",
+    "populacao": 7808
   },
   "region477": {
-    "title": "Registro"
+    "title": "Registro",
+    "populacao": 61732
   },
   "region478": {
-    "title": "Restinga"
+    "title": "Restinga",
+    "populacao": 6492
   },
   "region479": {
-    "title": "Ribeira"
+    "title": "Ribeira",
+    "populacao": 3166
   },
   "region480": {
-    "title": "Ribeirão Bonito"
+    "title": "Ribeirão Bonito",
+    "populacao": 11079
   },
   "region481": {
-    "title": "Ribeirão Branco"
+    "title": "Ribeirão Branco",
+    "populacao": 18930
   },
   "region482": {
-    "title": "Ribeirão Corrente"
+    "title": "Ribeirão Corrente",
+    "populacao": 4706
   },
   "region483": {
-    "title": "Ribeirão do Sul"
+    "title": "Ribeirão do Sul",
+    "populacao": 4768
   },
   "region484": {
-    "title": "Ribeirão dos Índios"
+    "title": "Ribeirão dos Índios",
+    "populacao": 2045
   },
   "region485": {
-    "title": "Ribeirão Grande"
+    "title": "Ribeirão Grande",
+    "populacao": 7570
   },
   "region486": {
-    "title": "Ribeirão Pires"
+    "title": "Ribeirão Pires",
+    "populacao": 118877
   },
   "region487": {
-    "title": "Ribeirão Preto"
+    "title": "Ribeirão Preto",
+    "populacao": 728400
   },
   "region488": {
-    "title": "Riversul"
+    "title": "Riversul",
+    "populacao": 5647
   },
   "region489": {
-    "title": "Rifaina"
+    "title": "Rifaina",
+    "populacao": 4158
   },
   "region490": {
-    "title": "Rincão"
+    "title": "Rincão",
+    "populacao": 9145
   },
   "region491": {
-    "title": "Rinópolis"
+    "title": "Rinópolis",
+    "populacao": 9357
   },
   "region492": {
-    "title": "Rio Claro"
+    "title": "Rio Claro",
+    "populacao": 208857
   },
   "region493": {
-    "title": "Rio das Pedras"
+    "title": "Rio das Pedras",
+    "populacao": 32267
   },
   "region494": {
-    "title": "Rio Grande da Serra"
+    "title": "Rio Grande da Serra",
+    "populacao": 45317
   },
   "region495": {
-    "title": "Riolândia"
+    "title": "Riolândia",
+    "populacao": 10453
   },
   "region496": {
-    "title": "Rosana"
+    "title": "Rosana",
+    "populacao": 17533
   },
   "region497": {
-    "title": "Roseira"
+    "title": "Roseira",
+    "populacao": 11095
   },
   "region498": {
-    "title": "Rubiácea"
+    "title": "Rubiácea",
+    "populacao": 2741
   },
   "region499": {
-    "title": "Rubinéia"
+    "title": "Rubinéia",
+    "populacao": 3965
   },
   "region500": {
-    "title": "Sabino"
+    "title": "Sabino",
+    "populacao": 5185
   },
   "region501": {
-    "title": "Sagres"
+    "title": "Sagres",
+    "populacao": 2519
   },
   "region502": {
-    "title": "Sales"
+    "title": "Sales",
+    "populacao": 6612
   },
   "region503": {
-    "title": "Sales Oliveira"
+    "title": "Sales Oliveira",
+    "populacao": 11654
   },
   "region504": {
-    "title": "Salesópolis"
+    "title": "Salesópolis",
+    "populacao": 15396
   },
   "region505": {
-    "title": "Salmourão"
+    "title": "Salmourão",
+    "populacao": 4883
   },
   "region506": {
-    "title": "Saltinho"
+    "title": "Saltinho",
+    "populacao": 8371
   },
   "region507": {
-    "title": "Salto"
+    "title": "Salto",
+    "populacao": 140125
   },
   "region508": {
-    "title": "Salto de Pirapora"
+    "title": "Salto de Pirapora",
+    "populacao": 45138
   },
   "region509": {
-    "title": "Salto Grande"
+    "title": "Salto Grande",
+    "populacao": 9212
   },
   "region510": {
-    "title": "Sandovalina"
+    "title": "Sandovalina",
+    "populacao": 3699
   },
   "region511": {
-    "title": "Santa Adélia"
+    "title": "Santa Adélia",
+    "populacao": 14203
   },
   "region512": {
-    "title": "Santa Albertina"
+    "title": "Santa Albertina",
+    "populacao": 6543
   },
   "region513": {
-    "title": "Santa Bárbara d'Oeste"
+    "title": "Santa Bárbara d'Oeste",
+    "populacao": 189338
   },
   "region514": {
-    "title": "Santa Branca"
+    "title": "Santa Branca",
+    "populacao": 14212
   },
   "region515": {
-    "title": "Santa Clara d'Oeste"
+    "title": "Santa Clara d'Oeste",
+    "populacao": 2677
   },
   "region516": {
-    "title": "Santa Cruz da Conceição"
+    "title": "Santa Cruz da Conceição",
+    "populacao": 4365
   },
   "region517": {
-    "title": "Santa Cruz da Esperança"
+    "title": "Santa Cruz da Esperança",
+    "populacao": 2162
   },
   "region518": {
-    "title": "Santa Cruz das Palmeiras"
+    "title": "Santa Cruz das Palmeiras",
+    "populacao": 29525
   },
   "region519": {
-    "title": "Santa Cruz do Rio Pardo"
+    "title": "Santa Cruz do Rio Pardo",
+    "populacao": 47677
   },
   "region520": {
-    "title": "Santa Ernestina"
+    "title": "Santa Ernestina",
+    "populacao": 6256
   },
   "region521": {
-    "title": "Santa Fé do Sul"
+    "title": "Santa Fé do Sul",
+    "populacao": 36098
   },
   "region522": {
-    "title": "Santa Gertrudes"
+    "title": "Santa Gertrudes",
+    "populacao": 24107
   },
   "region523": {
-    "title": "Santa Isabel"
+    "title": "Santa Isabel",
+    "populacao": 54586
   },
   "region524": {
-    "title": "Santa Lúcia"
+    "title": "Santa Lúcia",
+    "populacao": 7181
   },
   "region525": {
-    "title": "Santa Maria da Serra"
+    "title": "Santa Maria da Serra",
+    "populacao": 5314
   },
   "region526": {
-    "title": "Santa Mercedes"
+    "title": "Santa Mercedes",
+    "populacao": 3012
   },
   "region527": {
-    "title": "Santana da Ponte Pensa"
+    "title": "Santana da Ponte Pensa",
+    "populacao": 1698
   },
   "region528": {
-    "title": "Santana de Parnaíba"
+    "title": "Santana de Parnaíba",
+    "populacao": 162341
   },
   "region529": {
-    "title": "Santa Rita d'Oeste"
+    "title": "Santa Rita d'Oeste",
+    "populacao": 2790
   },
   "region530": {
-    "title": "Santa Rita do Passa Quatro"
+    "title": "Santa Rita do Passa Quatro",
+    "populacao": 25060
   },
   "region531": {
-    "title": "Santa Rosa de Viterbo"
+    "title": "Santa Rosa de Viterbo",
+    "populacao": 23725
   },
   "region532": {
-    "title": "Santa Salete"
+    "title": "Santa Salete",
+    "populacao": 1686
   },
   "region533": {
-    "title": "Santo Anastácio"
+    "title": "Santo Anastácio",
+    "populacao": 18045
   },
   "region534": {
-    "title": "Santo André"
+    "title": "Santo André",
+    "populacao": 778711
   },
   "region535": {
-    "title": "Santo Antônio da Alegria"
+    "title": "Santo Antônio da Alegria",
+    "populacao": 6917
   },
   "region536": {
-    "title": "Santo Antônio de Posse"
+    "title": "Santo Antônio de Posse",
+    "populacao": 23779
   },
   "region537": {
-    "title": "Santo Antônio do Aracanguá"
+    "title": "Santo Antônio do Aracanguá",
+    "populacao": 8568
   },
   "region538": {
-    "title": "Santo Antônio do Jardim"
+    "title": "Santo Antônio do Jardim",
+    "populacao": 6237
   },
   "region539": {
-    "title": "Santo Antônio do Pinhal"
+    "title": "Santo Antônio do Pinhal",
+    "populacao": 7294
   },
   "region540": {
-    "title": "Santo Expedito"
+    "title": "Santo Expedito",
+    "populacao": 3063
   },
   "region541": {
-    "title": "Santópolis do Aguapeí"
+    "title": "Santópolis do Aguapeí",
+    "populacao": 3933
   },
   "region542": {
-    "title": "Santos"
+    "title": "Santos",
+    "populacao": 429567
   },
   "region543": {
-    "title": "São Bento do Sapucaí"
+    "title": "São Bento do Sapucaí",
+    "populacao": 11948
   },
   "region544": {
-    "title": "São Bernardo do Campo"
+    "title": "São Bernardo do Campo",
+    "populacao": 840499
   },
   "region545": {
-    "title": "São Caetano do Sul"
+    "title": "São Caetano do Sul",
+    "populacao": 172109
   },
   "region546": {
-    "title": "São Carlos"
+    "title": "São Carlos",
+    "populacao": 265294
   },
   "region547": {
-    "title": "São Francisco"
+    "title": "São Francisco",
+    "populacao": 2629
   },
   "region548": {
-    "title": "São João da Boa Vista"
+    "title": "São João da Boa Vista",
+    "populacao": 95762
   },
   "region549": {
-    "title": "São João das Duas Pontes"
+    "title": "São João das Duas Pontes",
+    "populacao": 2622
   },
   "region550": {
-    "title": "São João de Iracema"
+    "title": "São João de Iracema",
+    "populacao": 1880
   },
   "region551": {
-    "title": "São João do Pau d'Alho"
+    "title": "São João do Pau d'Alho",
+    "populacao": 2288
   },
   "region552": {
-    "title": "São Joaquim da Barra"
+    "title": "São Joaquim da Barra",
+    "populacao": 49815
   },
   "region553": {
-    "title": "São José da Bela Vista"
+    "title": "São José da Bela Vista",
+    "populacao": 7690
   },
   "region554": {
-    "title": "São José do Barreiro"
+    "title": "São José do Barreiro",
+    "populacao": 3898
   },
   "region555": {
-    "title": "São José do Rio Pardo"
+    "title": "São José do Rio Pardo",
+    "populacao": 53416
   },
   "region556": {
-    "title": "São José do Rio Preto"
+    "title": "São José do Rio Preto",
+    "populacao": 501597
   },
   "region557": {
-    "title": "São José dos Campos"
+    "title": "São José dos Campos",
+    "populacao": 724756
   },
   "region558": {
-    "title": "São Lourenço da Serra"
+    "title": "São Lourenço da Serra",
+    "populacao": 16458
   },
   "region559": {
-    "title": "São Luiz do Paraitinga"
+    "title": "São Luiz do Paraitinga",
+    "populacao": 10497
   },
   "region560": {
-    "title": "São Manuel"
+    "title": "São Manuel",
+    "populacao": 38166
   },
   "region561": {
-    "title": "São Miguel Arcanjo"
+    "title": "São Miguel Arcanjo",
+    "populacao": 32904
   },
   "region562": {
-    "title": "São Paulo"
+    "title": "São Paulo",
+    "populacao": 11895578
   },
   "region563": {
-    "title": "São Pedro"
+    "title": "São Pedro",
+    "populacao": 39725
   },
   "region564": {
-    "title": "São Pedro do Turvo"
+    "title": "São Pedro do Turvo",
+    "populacao": 7333
   },
   "region565": {
-    "title": "São Roque"
+    "title": "São Roque",
+    "populacao": 81342
   },
   "region566": {
-    "title": "São Sebastião"
+    "title": "São Sebastião",
+    "populacao": 84019
   },
   "region567": {
-    "title": "São Sebastião da Grama"
+    "title": "São Sebastião da Grama",
+    "populacao": 10484
   },
   "region568": {
-    "title": "São Simão"
+    "title": "São Simão",
+    "populacao": 13590
   },
   "region569": {
-    "title": "São Vicente"
+    "title": "São Vicente",
+    "populacao": 338407
   },
   "region570": {
-    "title": "Sarapuí"
+    "title": "Sarapuí",
+    "populacao": 10632
   },
   "region571": {
-    "title": "Sarutaiá"
+    "title": "Sarutaiá",
+    "populacao": 3769
   },
   "region572": {
-    "title": "Sebastianópolis do Sul"
+    "title": "Sebastianópolis do Sul",
+    "populacao": 3187
   },
   "region573": {
-    "title": "Serra Azul"
+    "title": "Serra Azul",
+    "populacao": 13058
   },
   "region574": {
-    "title": "Serrana"
+    "title": "Serrana",
+    "populacao": 45408
   },
   "region575": {
-    "title": "Serra Negra"
+    "title": "Serra Negra",
+    "populacao": 30920
   },
   "region576": {
-    "title": "Sertãozinho"
+    "title": "Sertãozinho",
+    "populacao": 131600
   },
   "region577": {
-    "title": "Sete Barras"
+    "title": "Sete Barras",
+    "populacao": 12912
   },
   "region578": {
-    "title": "Severínia"
+    "title": "Severínia",
+    "populacao": 14724
   },
   "region579": {
-    "title": "Silveiras"
+    "title": "Silveiras",
+    "populacao": 6313
   },
   "region580": {
-    "title": "Socorro"
+    "title": "Socorro",
+    "populacao": 41405
   },
   "region581": {
-    "title": "Sorocaba"
+    "title": "Sorocaba",
+    "populacao": 757459
   },
   "region582": {
-    "title": "Sud Mennucci"
+    "title": "Sud Mennucci",
+    "populacao": 7466
   },
   "region583": {
-    "title": "Sumaré"
+    "title": "Sumaré",
+    "populacao": 289787
   },
   "region584": {
-    "title": "Suzano"
+    "title": "Suzano",
+    "populacao": 318765
   },
   "region585": {
-    "title": "Suzanápolis"
+    "title": "Suzanápolis",
+    "populacao": 3464
   },
   "region586": {
-    "title": "Tabapuã"
+    "title": "Tabapuã",
+    "populacao": 11499
   },
   "region587": {
-    "title": "Tabatinga"
+    "title": "Tabatinga",
+    "populacao": 14994
   },
   "region588": {
-    "title": "Taboão da Serra"
+    "title": "Taboão da Serra",
+    "populacao": 284274
   },
   "region589": {
-    "title": "Taciba"
+    "title": "Taciba",
+    "populacao": 6399
   },
   "region590": {
-    "title": "Taguaí"
+    "title": "Taguaí",
+    "populacao": 13006
   },
   "region591": {
-    "title": "Taiaçu"
+    "title": "Taiaçu",
+    "populacao": 5751
   },
   "region592": {
-    "title": "Taiúva"
+    "title": "Taiúva",
+    "populacao": 6733
   },
   "region593": {
-    "title": "Tambaú"
+    "title": "Tambaú",
+    "populacao": 21682
   },
   "region594": {
-    "title": "Tanabi"
+    "title": "Tanabi",
+    "populacao": 26021
   },
   "region595": {
-    "title": "Tapiraí"
+    "title": "Tapiraí",
+    "populacao": 8122
   },
   "region596": {
-    "title": "Tapiratiba"
+    "title": "Tapiratiba",
+    "populacao": 11936
   },
   "region597": {
-    "title": "Taquaral"
+    "title": "Taquaral",
+    "populacao": 2652
   },
   "region598": {
-    "title": "Taquaritinga"
+    "title": "Taquaritinga",
+    "populacao": 53322
   },
   "region599": {
-    "title": "Taquarituba"
+    "title": "Taquarituba",
+    "populacao": 24863
   },
   "region600": {
-    "title": "Taquarivaí"
+    "title": "Taquarivaí",
+    "populacao": 7112
   },
   "region601": {
-    "title": "Tarabai"
+    "title": "Tarabai",
+    "populacao": 6635
   },
   "region602": {
-    "title": "Tarumã"
+    "title": "Tarumã",
+    "populacao": 15248
   },
   "region603": {
-    "title": "Tatuí"
+    "title": "Tatuí",
+    "populacao": 128560
   },
   "region604": {
-    "title": "Taubaté"
+    "title": "Taubaté",
+    "populacao": 321298
   },
   "region605": {
-    "title": "Tejupá"
+    "title": "Tejupá",
+    "populacao": 4142
   },
   "region606": {
-    "title": "Teodoro Sampaio"
+    "title": "Teodoro Sampaio",
+    "populacao": 22559
   },
   "region607": {
-    "title": "Terra Roxa"
+    "title": "Terra Roxa",
+    "populacao": 7985
   },
   "region608": {
-    "title": "Tietê"
+    "title": "Tietê",
+    "populacao": 38690
   },
   "region609": {
-    "title": "Timburi"
+    "title": "Timburi",
+    "populacao": 2490
   },
   "region610": {
-    "title": "Torre de Pedra"
+    "title": "Torre de Pedra",
+    "populacao": 2063
   },
   "region611": {
-    "title": "Torrinha"
+    "title": "Torrinha",
+    "populacao": 9484
   },
   "region612": {
-    "title": "Trabiju"
+    "title": "Trabiju",
+    "populacao": 1719
   },
   "region613": {
-    "title": "Tremembé"
+    "title": "Tremembé",
+    "populacao": 53083
   },
   "region614": {
-    "title": "Três Fronteiras"
+    "title": "Três Fronteiras",
+    "populacao": 7013
   },
   "region615": {
-    "title": "Tuiuti"
+    "title": "Tuiuti",
+    "populacao": 6947
   },
   "region616": {
-    "title": "Tupã"
+    "title": "Tupã",
+    "populacao": 65416
   },
   "region617": {
-    "title": "Tupi Paulista"
+    "title": "Tupi Paulista",
+    "populacao": 16206
   },
   "region618": {
-    "title": "Turiúba"
+    "title": "Turiúba",
+    "populacao": 1839
   },
   "region619": {
-    "title": "Turmalina"
+    "title": "Turmalina",
+    "populacao": 1672
   },
   "region620": {
-    "title": "Ubarana"
+    "title": "Ubarana",
+    "populacao": 5456
   },
   "region621": {
-    "title": "Ubatuba"
+    "title": "Ubatuba",
+    "populacao": 96598
   },
   "region622": {
-    "title": "Ubirajara"
+    "title": "Ubirajara",
+    "populacao": 5265
   },
   "region623": {
-    "title": "Uchoa"
+    "title": "Uchoa",
+    "populacao": 10627
   },
   "region624": {
-    "title": "União Paulista"
+    "title": "União Paulista",
+    "populacao": 1628
   },
   "region625": {
-    "title": "Urânia"
+    "title": "Urânia",
+    "populacao": 8973
   },
   "region626": {
-    "title": "Uru"
+    "title": "Uru",
+    "populacao": 1419
   },
   "region627": {
-    "title": "Urupês"
+    "title": "Urupês",
+    "populacao": 14038
   },
   "region628": {
-    "title": "Valentim Gentil"
+    "title": "Valentim Gentil",
+    "populacao": 14531
   },
   "region629": {
-    "title": "Valinhos"
+    "title": "Valinhos",
+    "populacao": 131277
   },
   "region630": {
-    "title": "Valparaíso"
+    "title": "Valparaíso",
+    "populacao": 24723
   },
   "region631": {
-    "title": "Vargem"
+    "title": "Vargem",
+    "populacao": 10805
   },
   "region632": {
-    "title": "Vargem Grande do Sul"
+    "title": "Vargem Grande do Sul",
+    "populacao": 41226
   },
   "region633": {
-    "title": "Vargem Grande Paulista"
+    "title": "Vargem Grande Paulista",
+    "populacao": 52103
   },
   "region634": {
-    "title": "Várzea Paulista"
+    "title": "Várzea Paulista",
+    "populacao": 119576
   },
   "region635": {
-    "title": "Vera Cruz"
+    "title": "Vera Cruz",
+    "populacao": 10294
   },
   "region636": {
-    "title": "Vinhedo"
+    "title": "Vinhedo",
+    "populacao": 79235
   },
   "region637": {
-    "title": "Viradouro"
+    "title": "Viradouro",
+    "populacao": 17681
   },
   "region638": {
-    "title": "Vista Alegre do Alto"
+    "title": "Vista Alegre do Alto",
+    "populacao": 8327
   },
   "region639": {
-    "title": "Vitória Brasil"
+    "title": "Vitória Brasil",
+    "populacao": 1826
   },
   "region640": {
-    "title": "Votorantim"
+    "title": "Votorantim",
+    "populacao": 132849
   },
   "region641": {
-    "title": "Votuporanga"
+    "title": "Votuporanga",
+    "populacao": 100159
   },
   "region642": {
-    "title": "Zacarias"
+    "title": "Zacarias",
+    "populacao": 2761
   },
   "region643": {
-    "title": "Chavantes"
+    "title": "Chavantes",
+    "populacao": 12411
   },
   "region644": {
-    "title": "Estiva Gerbi"
+    "title": "Estiva Gerbi",
+    "populacao": 11566
   }
 }
