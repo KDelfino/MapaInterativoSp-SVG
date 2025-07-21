@@ -46,6 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
        
         highlightedPaths = newPathsToHighlight;
 
+        // mostar informações do município
         municipioNameDiv.innerHTML = `
           <h3>Município: ${info.title || ""}</h3>
           <p>População: ${info.populacao !== undefined && info.populacao !== null ? info.populacao.toLocaleString('pt-BR') : "Não disponível"}</p>
@@ -85,8 +86,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
           }, 50);
         });
-
-
 
         path.addEventListener('click', (e) => {
           const id = path.getAttribute('data-id');
