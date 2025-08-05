@@ -105,7 +105,7 @@ border-radius: 5px;
   }
   #map-container svg {
     width: 100vw !important;
-    height: 60vh !important;
+    height: 100vh !important;
     min-width: 0;
     float: none;
     display: block;
