@@ -470,16 +470,27 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       function updateTooltipPosition(e) {
-        const padding = 15;
-        let x = e.pageX;
-        let y = e.pageY - padding;
-
-        // Previne saída da tela
+        const offsetX = 16;
         const tooltipWidth = tooltip.offsetWidth || 150;
-        if (x + tooltipWidth / 2 > window.innerWidth - 10) {
-          x = window.innerWidth - tooltipWidth / 2 - 10;
-        } else if (x - tooltipWidth / 2 < 10) {
-          x = tooltipWidth / 2 + 10;
+        const tooltipHeight = tooltip.offsetHeight || 44;
+
+        // Posiciona ligeiramente acima e à direita do cursor
+        let x = e.clientX + offsetX;
+        let y = e.clientY - tooltipHeight - 12;
+
+        // Se passar do topo da tela, posiciona abaixo do cursor
+        if (y < 12) {
+          y = e.clientY + 20;
+        }
+
+        // Se passar da lateral direita da tela, inverte para a esquerda do cursor
+        if (x + tooltipWidth > window.innerWidth - 12) {
+          x = e.clientX - tooltipWidth - offsetX;
+        }
+
+        // Garante que não saia pela borda esquerda
+        if (x < 12) {
+          x = 12;
         }
 
         tooltip.style.left = `${x}px`;

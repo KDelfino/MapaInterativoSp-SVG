@@ -376,7 +376,7 @@ path.map-region.highlight {
 
 /* Tooltip Moderno Flutuante */
 .tooltip {
-  position: absolute;
+  position: fixed;
   background: rgba(15, 23, 42, 0.94);
   backdrop-filter: blur(8px);
   color: #ffffff;
@@ -387,9 +387,9 @@ path.map-region.highlight {
   display: none;
   z-index: 1000;
   box-shadow: var(--shadow-lg);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  transform: translate(-50%, -120%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
   white-space: nowrap;
+  transition: opacity 0.1s ease;
 }
 
 .tooltip-title {
